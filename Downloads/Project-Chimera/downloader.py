@@ -113,7 +113,20 @@ class AudioAcquisitionEngine:
             Path to downloaded WAV file, or None if failed
         """
         logger.info(f"Downloading audio: {video_id}")
-        
+
+        # Check if audio already exists in workspace
+        if custom_filename:
+            safe_name = self._sanitize_filename(custom_filename) + ".wav"
+            existing = self.audio_sources_dir / safe_name
+            if existing.exists():
+                logger.info(f"Audio already present: {existing}")
+                return str(existing)
+        else:
+            existing_files = list(self.audio_sources_dir.glob(f"*{video_id}*.wav"))
+            if existing_files:
+                logger.info(f"Audio already present: {existing_files[0]}")
+                return str(existing_files[0])
+
         # Prepare download configuration
         if custom_filename:
             # Clean filename for filesystem safety
