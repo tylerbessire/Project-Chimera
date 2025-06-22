@@ -70,7 +70,10 @@ def test_audio_engine_basic():
     engine = ProfessionalAudioEngine(ProcessingQuality.PROFESSIONAL)
     
     # Test structure conversion
-    structure = engine._convert_recipe_to_structure(test_recipe['sections'], audio_a, audio_b)
+    class DummyAnalysis:
+        optimal_bpm = 120
+
+    structure = engine._convert_recipe_to_structure(test_recipe['sections'], audio_a, audio_b, DummyAnalysis())
     
     # Validate structure
     assert len(structure) == 2

@@ -235,15 +235,19 @@ class ProfessionalAudioEngine:
     
     def _formant_preserving_stretch(self, audio: AudioBuffer, ratio: float) -> AudioBuffer:
         """High-quality time stretching with formant preservation."""
-        if abs(ratio - 1.0) < 0.01:  # No stretching needed
+        if abs(ratio - 1.0) < 0.01:
             return audio
-        
-        # Use phase vocoder for high-quality stretching
-        stretched_audio = librosa.effects.time_stretch(
-            audio.audio, 
-            rate=ratio,
-            hop_length=self.buffer_size // 4
-        )
+
+        try:
+            import pyrubberband as pyrb
+            stretched_audio = pyrb.time_stretch(audio.audio, audio.sample_rate, ratio)
+        except Exception as e:  # pragma: no cover - optional dep
+            logger.warning(f"pyrubberband stretch failed: {e}, falling back to librosa")
+            stretched_audio = librosa.effects.time_stretch(
+                audio.audio,
+                rate=ratio,
+                hop_length=self.buffer_size // 4
+            )
         
         # Create new buffer with stretched audio
         stretched_buffer = AudioBuffer(
@@ -262,13 +266,17 @@ class ProfessionalAudioEngine:
         if abs(semitones) < 0.1:  # No pitch shift needed
             return audio
         
-        # Use librosa's pitch shift with high quality
-        shifted_audio = librosa.effects.pitch_shift(
-            audio.audio,
-            sr=audio.sample_rate,
-            n_steps=semitones,
-            hop_length=self.buffer_size // 4
-        )
+        try:
+            import pyrubberband as pyrb
+            shifted_audio = pyrb.pitch_shift(audio.audio, audio.sample_rate, semitones)
+        except Exception as e:  # pragma: no cover - optional dep
+            logger.warning(f"pyrubberband pitch shift failed: {e}, using librosa")
+            shifted_audio = librosa.effects.pitch_shift(
+                audio.audio,
+                sr=audio.sample_rate,
+                n_steps=semitones,
+                hop_length=self.buffer_size // 4
+            )
         
         # Create new buffer
         shifted_buffer = AudioBuffer(
@@ -571,7 +579,7 @@ class ProfessionalAudioEngine:
         
         # Convert sections to structure
         if sections_data:
-            return self._convert_recipe_to_structure(sections_data, audio_a, audio_b)
+            return self._convert_recipe_to_structure(sections_data, audio_a, audio_b, analysis)
         
         # If we still don't have sections, fail loudly
         print(f"❌ No valid sections found in analysis. Full structure: {analysis_dict}")
@@ -595,7 +603,7 @@ class ProfessionalAudioEngine:
         ]
     
     
-    def _convert_recipe_to_structure(self, recipe_sections, audio_a: AudioBuffer, audio_b: AudioBuffer) -> List[Dict]:
+    def _convert_recipe_to_structure(self, recipe_sections, audio_a: AudioBuffer, audio_b: AudioBuffer, analysis: Any) -> List[Dict]:
         """
         Smart recipe conversion that respects Luna/Claude's creative decisions.
         Prevents 'crossfade everything' fallback that causes Mr Brightside to vanish.
@@ -625,17 +633,23 @@ class ProfessionalAudioEngine:
             )
             
             print(f"  📍 {section_label}: {sec_duration}s using source '{source}'")
+
+            repeat_times = int(section.get('repeat', section.get('repeat_times', 1)))
             
+            # Include tempo information for smarter transitions
+            bpm = getattr(analysis, 'optimal_bpm', None)
             structure.append({
                 'type': section_label,
                 'source': source,
                 'start_time': current_time,
                 'duration': sec_duration,
+                'repeat': repeat_times,
                 'crossfade': self._should_crossfade(section),
+                'bpm': bpm,
                 'recipe_data': section,
                 'layer_cake': section.get('layer_cake', [])  # Preserve technical details
             })
-            current_time += sec_duration
+            current_time += sec_duration * repeat_times
             
         print(f"🎵 Total mashup duration: {current_time:.1f}s across {len(structure)} sections")
         return structure
@@ -687,19 +701,21 @@ class ProfessionalAudioEngine:
     
     def _calculate_total_duration(self, structure: List[Dict]) -> float:
         """Calculate total mashup duration."""
-        return sum(section['duration'] for section in structure)
+        return sum(section['duration'] * int(section.get('repeat', 1)) for section in structure)
     
     def _process_mashup_section(self, audio_a: AudioBuffer, audio_b: AudioBuffer, 
                               section: Dict, current_sample: int) -> np.ndarray:
         """Process a single mashup section with proper gain staging."""
         
         duration_samples = int(section['duration'] * self.sample_rate)
+        repeat_times = int(section.get('repeat', 1))
         
         if section['source'] == 'a':
             # Use audio A as bed track (-6dB)
             start_sample = current_sample % audio_a.audio.shape[1]
             end_sample = min(start_sample + duration_samples, audio_a.audio.shape[1])
             audio_slice = audio_a.audio[:, start_sample:end_sample]
+            audio_slice = self._loop_with_crossfade(audio_slice, repeat_times)
             return audio_slice * 0.5  # -6dB gain staging
             
         elif section['source'] == 'b':
@@ -707,6 +723,7 @@ class ProfessionalAudioEngine:
             start_sample = current_sample % audio_b.audio.shape[1]
             end_sample = min(start_sample + duration_samples, audio_b.audio.shape[1])
             audio_slice = audio_b.audio[:, start_sample:end_sample]
+            audio_slice = self._loop_with_crossfade(audio_slice, repeat_times)
             return audio_slice * 0.707  # -3dB gain staging
             
         else:  # 'both'
@@ -730,36 +747,118 @@ class ProfessionalAudioEngine:
             vocal_track = audio_slice_b * 0.707  # -3dB for vocals
             
             if section.get('crossfade', False):
-                # Apply crossfade with proper gains
-                return self._crossfade_audio(bed_track, vocal_track)
+                fade_dur = section.get('fade_duration', 2.0)
+                bpm = section.get('bpm')
+                mixed = self._crossfade_audio(
+                    bed_track,
+                    vocal_track,
+                    fade_duration=fade_dur,
+                    bpm=bpm,
+                )
+                mixed = self._loop_with_crossfade(mixed, repeat_times)
+                return mixed
             else:
-                # Mix with proper gain staging
-                return bed_track + vocal_track
+                mixed = bed_track + vocal_track
+                mixed = self._loop_with_crossfade(mixed, repeat_times)
+                return mixed
     
-    def _crossfade_audio(self, audio_a: np.ndarray, audio_b: np.ndarray, 
-                        fade_duration: float = 2.0) -> np.ndarray:
-        """Apply professional crossfade between two audio segments."""
-        
+    def _crossfade_audio(
+        self,
+        audio_a: np.ndarray,
+        audio_b: np.ndarray,
+        fade_duration: float = 2.0,
+        bpm: Optional[float] = None,
+    ) -> np.ndarray:
+        """Apply high-quality equal-power crossfade between two segments.
+
+        When ``bpm`` is supplied and ``fade_duration`` retains the default
+        value, the fade is stretched to roughly four beats for more musical
+        transitions.
+        """
+
+        if bpm and bpm > 0 and fade_duration == 2.0:
+            beat_duration = 60.0 / bpm
+            fade_duration = max(fade_duration, beat_duration * 4)
+
         fade_samples = int(fade_duration * self.sample_rate)
         fade_samples = min(fade_samples, audio_a.shape[1], audio_b.shape[1])
-        
-        # Create fade curves
-        fade_out = np.linspace(1, 0, fade_samples)
-        fade_in = np.linspace(0, 1, fade_samples)
-        
-        # Apply crossfade
+
+        if fade_samples <= 0:
+            return audio_a + audio_b
+
+        t = np.linspace(0, np.pi / 2, fade_samples)
+        fade_out = np.cos(t) ** 2
+        fade_in = np.sin(t) ** 2
+
         result = audio_a.copy()
-        result[:, -fade_samples:] *= fade_out
-        result[:, -fade_samples:] += audio_b[:, :fade_samples] * fade_in
-        
+
+        # Mix start of audio_b while fading out audio_a
+        result[:, :fade_samples] = (
+            audio_a[:, :fade_samples] * fade_out +
+            audio_b[:, :fade_samples] * fade_in
+        )
+
+        # Mix any overlapping region after the fade
+        overlap_end = min(audio_b.shape[1], audio_a.shape[1])
+        if overlap_end > fade_samples:
+            result[:, fade_samples:overlap_end] += audio_b[:, fade_samples:overlap_end]
+
         return result
+
+    def _loop_with_crossfade(
+        self, audio: np.ndarray, repeat_times: int, crossfade_ms: float = 20.0
+    ) -> np.ndarray:
+        """Loop ``audio`` ``repeat_times`` with short crossfades between loops."""
+
+        if repeat_times <= 1:
+            return audio
+
+        seg_len = audio.shape[1]
+        fade_samples = int((crossfade_ms / 1000.0) * self.sample_rate)
+        fade_samples = min(fade_samples, seg_len // 2)
+
+        output = np.zeros((audio.shape[0], seg_len * repeat_times), dtype=audio.dtype)
+        output[:, :seg_len] = audio
+
+        for i in range(1, repeat_times):
+            start = i * seg_len
+            output[:, start:start + seg_len] = audio
+            if fade_samples > 0:
+                prev = output[:, start - fade_samples:start]
+                next_seg = output[:, start:start + fade_samples]
+                t = np.linspace(0, np.pi / 2, fade_samples)
+                fade_out = np.cos(t) ** 2
+                fade_in = np.sin(t) ** 2
+                output[:, start - fade_samples:start] = (
+                    prev * fade_out + next_seg * fade_in
+                )
+
+        return output
     
     # === Effects Processing Methods ===
     
     def _professional_eq(self, audio: np.ndarray, analysis: Any) -> np.ndarray:
-        """Apply professional EQ based on analysis."""
-        # Simplified EQ - in production would use proper filter design
-        return audio * 1.02  # Slight boost
+        """Apply a simple three-band EQ for cleaner tonal balance."""
+
+        # High-pass to remove rumble
+        sos_hp = scipy.signal.butter(2, 40, btype="highpass", fs=self.sample_rate, output="sos")
+        eq_audio = scipy.signal.sosfilt(sos_hp, audio)
+
+        # Gentle mid boost and high shelf
+        sos_mid = scipy.signal.butter(2, [500, 6000], btype="bandpass", fs=self.sample_rate, output="sos")
+        mids = scipy.signal.sosfilt(sos_mid, eq_audio) * 1.1
+
+        sos_lp = scipy.signal.butter(2, 12000, btype="lowpass", fs=self.sample_rate, output="sos")
+        highs = scipy.signal.sosfilt(sos_lp, eq_audio) * 1.05
+
+        eq_audio = eq_audio + mids + highs
+
+        # Normalise to prevent clipping
+        max_val = np.max(np.abs(eq_audio))
+        if max_val > 1.0:
+            eq_audio /= max_val
+
+        return eq_audio
     
     def _multiband_compression(self, audio: np.ndarray) -> np.ndarray:
         """Apply multiband compression."""
