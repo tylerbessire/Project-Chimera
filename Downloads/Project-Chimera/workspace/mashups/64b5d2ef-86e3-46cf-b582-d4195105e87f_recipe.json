@@ -1,0 +1,156 @@
+{
+  "mashup_recipe": {
+    "project_title": "Goodbye Mr. Brightside",
+    "master_session_config": {
+      "base_tempo": 140,
+      "master_key": "C",
+      "session_structure": "unconventional_build"
+    },
+    "source_tracks": {
+      "track_a": {
+        "title": "Goodbye My Lover",
+        "artist": "James Blunt",
+        "original_tempo": 120,
+        "original_key": "C",
+        "processing": {
+          "time_stretch": "+16.7%",
+          "pitch_shift": "0 semitones",
+          "elements_to_extract": [
+            "acoustic_guitar",
+            "lead_vocals",
+            "emotional_delivery"
+          ]
+        }
+      },
+      "track_b": {
+        "title": "Mr. Brightside",
+        "artist": "The Killers",
+        "original_tempo": 161.5,
+        "original_key": "C#",
+        "processing": {
+          "time_stretch": "-13.3%",
+          "pitch_shift": "-1 semitone",
+          "elements_to_extract": [
+            "driving_drums",
+            "synths",
+            "guitar_tone",
+            "brandon_vocals"
+          ]
+        }
+      }
+    },
+    "arrangement_structure": {
+      "intro": {
+        "duration": "16_bars",
+        "elements": [
+          "blunt_acoustic_guitar",
+          "ambient_pad"
+        ],
+        "tempo": 120,
+        "mood": "intimate"
+      },
+      "verse_1": {
+        "duration": "32_bars",
+        "elements": [
+          "blunt_lead_vocals_full",
+          "killers_guitar_tone_half_time",
+          "subtle_killers_drums_filtered"
+        ],
+        "tempo_automation": "120_to_130_gradual",
+        "key": "C"
+      },
+      "transition_1": {
+        "duration": "8_bars",
+        "elements": [
+          "killers_drum_fills_beat_sliced",
+          "pitch_bend_automation_c_to_c_sharp"
+        ],
+        "tempo_automation": "130_to_140_aggressive",
+        "key": "pitch_limbo_c_to_c_sharp"
+      },
+      "chorus_1": {
+        "duration": "32_bars",
+        "elements": [
+          "killers_full_energy_drums",
+          "killers_synths_full",
+          "brandon_vocals_granular_resequenced",
+          "blunt_vocals_layered_harmonies"
+        ],
+        "tempo": 140,
+        "key": "C#"
+      },
+      "verse_2": {
+        "duration": "32_bars",
+        "elements": [
+          "blunt_vocals_intimate_phrasing",
+          "brandon_vocals_chopped_to_match_blunt_delivery",
+          "killers_guitar_gritty_texture_added"
+        ],
+        "tempo": 140,
+        "key": "C"
+      },
+      "explosive_build": {
+        "duration": "16_bars",
+        "elements": [
+          "layered_vocal_stacks",
+          "killers_drums_building_intensity",
+          "tempo_push_automation"
+        ],
+        "tempo_automation": "140_to_155_exponential",
+        "key": "tension_between_c_and_c_sharp"
+      },
+      "final_chorus": {
+        "duration": "48_bars",
+        "elements": [
+          "full_killers_arrangement",
+          "blunt_vocals_anthemic_delivery",
+          "collision_of_both_energies"
+        ],
+        "tempo": 155,
+        "key": "C#"
+      }
+    },
+    "key_processing_techniques": {
+      "vocal_processing": {
+        "brandon_granular_sampling": {
+          "technique": "granular_synthesis",
+          "purpose": "resequence_to_match_blunt_phrasing",
+          "automation": "intensity_builds_to_original_delivery"
+        },
+        "blunt_vocal_layering": {
+          "technique": "harmonic_stacking",
+          "purpose": "add_anthemic_quality_to_choruses"
+        }
+      },
+      "tempo_manipulation": {
+        "gradual_acceleration": {
+          "automation_curves": "exponential_and_gradual_mixed",
+          "beat_slicing": "killers_drums_for_rhythmic_pulls"
+        }
+      },
+      "pitch_techniques": {
+        "key_tension_creation": {
+          "method": "deliberate_pitch_limbo_sections",
+          "automation": "pitch_bend_between_c_and_c_sharp",
+          "purpose": "unsettling_but_compelling_pull"
+        }
+      },
+      "textural_blending": {
+        "guitar_fusion": {
+          "blunt_acoustic": "foundation_layer",
+          "killers_tone": "energy_and_grit_overlay"
+        },
+        "rhythmic_integration": {
+          "half_time_killers_elements": "verse_sections",
+          "full_intensity_killers": "chorus_explosions"
+        }
+      }
+    },
+    "mix_philosophy": {
+      "contrast_management": "heartfelt_vulnerability_vs_explosive_energy",
+      "transition_approach": "seamless_collisions_not_jarring_cuts",
+      "energy_arc": "intimate_to_irresistible_with_dynamic_builds",
+      "listener_journey": "hooked_from_first_note_to_final_explosion"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "song_id": "Kb7lAMjFuA0",
+  "title": "Kb7lAMjFuA0",
+  "folder_path": "workspace/songs/Kb7lAMjFuA0",
+  "files": {
+    "audio": "audio.mp3",
+    "stems": "stems/",
+    "metadata": "metadata.json"
+  },
+  "ready_for_mashup": true,
+  "organization_status": "cleaned"
+}

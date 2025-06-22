@@ -1,0 +1,69 @@
+{
+  "mashupTitle": "Goodbye Mr. Brightside",
+  "artistsCombined": "James Blunt x The Killers",
+  "collaborativeVision": {
+    "conceptualFramework": "vulnerability-to-exuberance emotional journey",
+    "narrativeArc": "intimacy to celebration with controlled energy buildups"
+  },
+  "technicalSpecifications": {
+    "masterTempo": 140,
+    "tempoStrategy": {
+      "mrBrightside": "half-time sections for controlled/brooding feel",
+      "goodbyeMyLover": "double-time sections for explosive moments",
+      "transitionTechnique": "granular synthesis on Blunt vocals to maintain intimate texture"
+    },
+    "keyModulation": {
+      "originalKeys": {
+        "goodbyeMyLover": "C",
+        "mrBrightside": "C#"
+      },
+      "modulationTechnique": "chromatic voice leading with intentional harmonic tension",
+      "transitionEffect": "parallel key clash before resolution + pitch bend on instrumentals for 'lifting off' sensation"
+    }
+  },
+  "arrangementStructure": {
+    "opening": {
+      "elements": [
+        "Blunt vocal isolated",
+        "heavily filtered Mr. Brightside guitar elements",
+        "subtle rhythmic ghost layers underneath"
+      ],
+      "mood": "tender and brooding"
+    },
+    "buildSection": {
+      "technique": "gradually unmask Killers energy by removing filters",
+      "layering": "progressive addition of elements",
+      "chordProgressions": "utilize C major progressions for intimate foundation"
+    },
+    "climax": {
+      "description": "big drop/chorus with full energy integration",
+      "melodicTreatment": "chopped and looped melodic motifs from both songs",
+      "rhythmicPattern": "dynamic drum pattern hinting at both original tempos"
+    }
+  },
+  "vocalProduction": {
+    "bluntVocals": {
+      "processing": [
+        "tasteful doubling",
+        "reverb sends for spatial depth"
+      ],
+      "philosophy": "maintain intimacy even during energy builds",
+      "timeStretching": "granular synthesis for tempo adjustments"
+    },
+    "killersVocals": {
+      "integration": "layered with Blunt vocals during climactic sections",
+      "treatment": "complementary processing to blend with intimate aesthetic"
+    }
+  },
+  "soundDesign": {
+    "filterAutomation": "remove filters progressively to reveal Killers elements",
+    "layeringStrategy": "start minimal, build to full arrangement",
+    "rhythmicFoundation": "half-time over faster sections for energetic but controlled movement"
+  },
+  "creativeObjectives": [
+    "blend emotional depth of ballad with infectious indie rock energy",
+    "create surprising yet natural transitions between contrasting styles",
+    "maintain emotional core while delivering dance-floor energy",
+    "utilize tempo and key differences as compositional strengths"
+  ]
+}

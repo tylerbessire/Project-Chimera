@@ -1,0 +1,75 @@
+{
+  "mashup_recipe": {
+    "project_title": "Brightside Groove Collision",
+    "source_tracks": {
+      "track_a": {
+        "reference": "Mr. Brightside",
+        "original_bpm": 161.5,
+        "original_key": "C#",
+        "character": "relentless_obsessive_urgency"
+      },
+      "track_b": {
+        "reference": "Mystery Track",
+        "original_bpm": 120,
+        "original_key": "C",
+        "character": "groove_oriented_laid_back_momentum"
+      }
+    },
+    "master_settings": {
+      "target_bpm": 120,
+      "key_strategy": "chromatic_crossfade_c_sharp_to_c",
+      "overall_vibe": "high_energy_feel_good_explosion"
+    },
+    "tempo_engineering": {
+      "mr_brightside_processing": {
+        "time_stretch_algorithm": [
+          "iZotope_RX",
+          "Ableton_Complex_Pro"
+        ],
+        "stretch_ratio": "161.5_to_120_bpm",
+        "preservation_technique": "surgical_element_separation",
+        "drum_treatment": "keep_original_hits_timing",
+        "melodic_content": "full_time_stretch",
+        "polyrhythmic_sections": "certain_elements_original_feel"
+      }
+    },
+    "key_blending_strategy": {
+      "transition_method": "smooth_crossfading",
+      "key_zones": "gradual_shift_c_sharp_through_chromatic_passing_tones_to_c",
+      "tension_device": "half_step_buildup_moments",
+      "modal_exploration": "creative_pitch_shifting_blend"
+    },
+    "arrangement_structure": {
+      "primary_concept": "mr_brightside_chorus_over_mystery_groove",
+      "dynamics": "alternating_sections_spontaneous_feel",
+      "backbone": "aggressive_anthemic_mr_brightside",
+      "layering": "rhythmic_melodic_elements_fresh_angles"
+    },
+    "mixing_techniques": {
+      "vocal_prominence": {
+        "sidechain_setup": "groove_elements_duck_for_mr_brightside_vocals",
+        "vocal_pocket": "cut_through_while_sitting_in_groove"
+      },
+      "creative_processing": {
+        "glitchy_edits": "energetic_chopping_resampling",
+        "vocal_chops": "rhythmic_stutters_and_melodic_reharmonization",
+        "filter_work": "sweeps_for_tension_and_release",
+        "transition_fx": "build_up_devices_using_key_tension"
+      }
+    },
+    "production_goals": {
+      "energy_profile": "catchy_and_emotionally_impactful",
+      "accessibility": "danceable_groove_120bpm",
+      "innovation": "fresh_electric_mashup_contrasting_energies",
+      "emotional_arc": "massive_potential_explosion"
+    },
+    "technical_workflow": {
+      "phase_1": "surgical_tempo_adjustment_preserve_punch",
+      "phase_2": "chromatic_key_transition_mapping",
+      "phase_3": "polyrhythmic_arrangement_experiments",
+      "phase_4": "sidechain_vocal_integration",
+      "phase_5": "glitch_processing_vocal_chops",
+      "phase_6": "filter_automation_tension_release"
+    }
+  }
+}

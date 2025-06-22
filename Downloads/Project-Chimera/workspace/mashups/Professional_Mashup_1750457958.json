@@ -1,0 +1,23 @@
+{
+  "professional_mashup": true,
+  "processing_quality": "professional",
+  "sample_rate": 48000,
+  "bit_depth": 32,
+  "channels": 2,
+  "duration": 257.9600208333333,
+  "mashup_analysis": {},
+  "audio_metadata": {
+    "mashup_structure": [
+      {
+        "type": "dynamic_blend",
+        "source": "both",
+        "start_time": 0,
+        "duration": 257.9600208333333,
+        "crossfade": true
+      }
+    ],
+    "transition_count": 0,
+    "effects_applied": true,
+    "ai_mastered": true
+  }
+}

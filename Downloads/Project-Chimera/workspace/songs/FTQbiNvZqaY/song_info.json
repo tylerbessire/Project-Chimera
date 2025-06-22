@@ -1,0 +1,12 @@
+{
+  "song_id": "FTQbiNvZqaY",
+  "title": "FTQbiNvZqaY",
+  "folder_path": "workspace/songs/FTQbiNvZqaY",
+  "files": {
+    "audio": "audio.wav",
+    "stems": "stems/",
+    "metadata": "metadata.json"
+  },
+  "ready_for_mashup": true,
+  "organization_status": "cleaned"
+}

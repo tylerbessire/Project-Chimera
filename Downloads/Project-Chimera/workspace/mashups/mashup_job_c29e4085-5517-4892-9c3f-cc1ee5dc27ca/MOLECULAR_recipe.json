@@ -1,0 +1,3672 @@
+{
+  "format_version": "3.0_REAL_PRODUCERS",
+  "collaboration_type": "Luna_Claude_Real_Music_Producers",
+  "story_driven": true,
+  "live_collaboration_log": [
+    {
+      "speaker": "System",
+      "message": "Starting real music producer collaboration",
+      "phase": "initialization",
+      "timestamp": 1750128535.2997818,
+      "formatted_time": "19:48:55"
+    },
+    {
+      "speaker": "System",
+      "message": "Phase 1: Analyzing lyrics and creating story",
+      "phase": "lyrical_analysis",
+      "timestamp": 1750128535.299801,
+      "formatted_time": "19:48:55"
+    },
+    {
+      "speaker": "Luna",
+      "message": "Analyzing lyrics and narrative themes...",
+      "phase": "lyrical_analysis",
+      "timestamp": 1750128535.299891,
+      "formatted_time": "19:48:55"
+    },
+    {
+      "speaker": "Luna",
+      "message": "Story concept: This mashup weaves the story of unfulfilled longing and self-discovery, contrasting the passionate heartbreak in 'Mr. Brightside' with the euphoric transcendence of 'Levels.' Together, they depict a universal human journey from emotional pain and obsession to liberation and awakening. The narrative explores how we confront our inner demons\u2014obsessive love and regret\u2014only to find moments of transcendence and hope that propel us toward self-realization and joy.",
+      "phase": "lyrical_analysis",
+      "timestamp": 1750128541.253737,
+      "formatted_time": "19:49:01"
+    },
+    {
+      "speaker": "Luna",
+      "message": "Emotional arc: Building emotional progression...",
+      "phase": "lyrical_analysis",
+      "timestamp": 1750128541.253818,
+      "formatted_time": "19:49:01"
+    },
+    {
+      "speaker": "System",
+      "message": "Phase 2: Creating detailed musical timeline",
+      "phase": "timeline_creation",
+      "timestamp": 1750128541.253858,
+      "formatted_time": "19:49:01"
+    },
+    {
+      "speaker": "Claude",
+      "message": "Creating detailed musical timeline...",
+      "phase": "timeline_creation",
+      "timestamp": 1750128541.253974,
+      "formatted_time": "19:49:01"
+    },
+    {
+      "speaker": "Claude",
+      "message": "Created 0 timeline sections with specific arrangements",
+      "phase": "timeline_creation",
+      "timestamp": 1750128588.8777401,
+      "formatted_time": "19:49:48"
+    },
+    {
+      "speaker": "Claude",
+      "message": "Climax strategy: Building emotional peak...",
+      "phase": "timeline_creation",
+      "timestamp": 1750128588.877932,
+      "formatted_time": "19:49:48"
+    },
+    {
+      "speaker": "System",
+      "message": "Phase 3: Planning molecular implementation",
+      "phase": "molecular_planning",
+      "timestamp": 1750128588.877975,
+      "formatted_time": "19:49:48"
+    },
+    {
+      "speaker": "Luna",
+      "message": "Planning creative molecular effects...",
+      "phase": "molecular_planning",
+      "timestamp": 1750128588.8783412,
+      "formatted_time": "19:49:48"
+    },
+    {
+      "speaker": "System",
+      "message": "Phase 4: Refining and iterating",
+      "phase": "refinement",
+      "timestamp": 1750128601.429981,
+      "formatted_time": "19:50:01"
+    },
+    {
+      "speaker": "Luna",
+      "message": "After hearing Claude's arrangement, I want to add more emotional weight to the bridge at 1:15. Let's strip out ALL instruments for 8 bars and let the lead vocal carry the vulnerability of the story alone - then slam back with both drum patterns layered for the impact.",
+      "phase": "refinement",
+      "timestamp": 1750128602.4329028,
+      "formatted_time": "19:50:02"
+    },
+    {
+      "speaker": "Claude",
+      "message": "Brilliant call - muting all instruments 1:15-1:31, boosting lead vocal +4dB with subtle reverb tail. For the slam back at 1:31, I'll layer the kick patterns from both songs with the snare from Song 2 leading. Adding a 200ms riser before the slam for anticipation.",
+      "phase": "refinement",
+      "timestamp": 1750128603.436841,
+      "formatted_time": "19:50:03"
+    },
+    {
+      "speaker": "Luna",
+      "message": "Yes! And I want to take the word 'feeling' from Song 2's chorus and chop it into syllables - 'feel-feel-feeling' - right before the final chorus at 1:45. It'll create tension and reference our emotional theme. Can we pitch the second 'feel' down a semitone?",
+      "phase": "refinement",
+      "timestamp": 1750128604.4380429,
+      "formatted_time": "19:50:04"
+    },
+    {
+      "speaker": "Claude",
+      "message": "Perfect creative choice! Extracting 'feeling' vocal segment, chopping at 150ms intervals: 'feel' (original pitch), 'feel' (-100 cents), 'feeling' (original). Placing at 1:44-1:45 with 50ms gaps. Adding subtle distortion on the pitched-down syllable for emotional grit.",
+      "phase": "refinement",
+      "timestamp": 1750128605.441222,
+      "formatted_time": "19:50:05"
+    },
+    {
+      "speaker": "Luna",
+      "message": "The climax at 1:30 needs more magic. Take the guitar riff from Song 1's intro and layer it BEHIND the vocals from Song 2's chorus, but pan the guitar hard left and add a pitch-shifted echo panned right. It'll create this impossible stereo moment that ties our whole story together.",
+      "phase": "refinement",
+      "timestamp": 1750128606.446358,
+      "formatted_time": "19:50:06"
+    },
+    {
+      "speaker": "Claude",
+      "message": "Absolutely inspired! Guitar riff extracted from 0:03-0:07 of Song 1, placed at 1:30-1:34. Panning: guitar hard left (-100), echo hard right (+100) with +7 semitone shift and 300ms delay. Song 2 vocals centered with 20% stereo width. This creates the narrative bookend you're after.",
+      "phase": "refinement",
+      "timestamp": 1750128607.4515321,
+      "formatted_time": "19:50:07"
+    },
+    {
+      "speaker": "System",
+      "message": "Creating fallback professional timeline",
+      "phase": "fallback",
+      "timestamp": 1750128607.4518452,
+      "formatted_time": "19:50:07"
+    },
+    {
+      "speaker": "System",
+      "message": "Created 8 professional sections with 626 components",
+      "phase": "fallback",
+      "timestamp": 1750128607.454709,
+      "formatted_time": "19:50:07"
+    },
+    {
+      "speaker": "System",
+      "message": "Producer collaboration complete - creating final masterpiece!",
+      "phase": "complete",
+      "timestamp": 1750128607.454846,
+      "formatted_time": "19:50:07"
+    }
+  ],
+  "timeline": [
+    {
+      "time_range": "0-15000ms",
+      "section_name": "intro",
+      "story_purpose": "Opening with Song 1 vocals",
+      "molecules": {
+        "intro_vocal_song_1_0": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_1",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_1_1": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_2",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_1_2": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_3",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_1_3": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_4",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_1_4": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_5",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_1_5": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_6",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_1_6": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_7",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_1_7": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_8",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_1_8": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_9",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_1_9": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_10",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_1_10": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_11",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_1_11": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_12",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_1_12": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_13",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_1_13": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_14",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_1_14": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_15",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_1_15": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_16",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_1_16": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_17",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_1_17": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_18",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_1_18": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_19",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_drums_song_1_19": {
+          "source_song": "song_1",
+          "ingredient": "drums_drum_segment_1",
+          "type": "drums",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms"
+          ]
+        },
+        "intro_bass_song_1_20": {
+          "source_song": "song_1",
+          "ingredient": "bass_bass_segment_1",
+          "type": "bass",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms"
+          ]
+        },
+        "intro_other_song_1_21": {
+          "source_song": "song_1",
+          "ingredient": "other_harmonic_segment_1",
+          "type": "other",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms"
+          ]
+        },
+        "intro_vocal_song_2_22": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_1",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_2_23": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_2",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_2_24": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_3",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_2_25": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_4",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_2_26": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_5",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_2_27": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_6",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_2_28": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_7",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_2_29": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_8",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_2_30": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_9",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_2_31": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_10",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_2_32": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_11",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_2_33": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_12",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_2_34": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_13",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_2_35": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_14",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_2_36": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_15",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_2_37": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_16",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_2_38": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_17",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_2_39": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_18",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_vocal_song_2_40": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_19",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "intro_drums_song_2_41": {
+          "source_song": "song_2",
+          "ingredient": "drums_drum_segment_1",
+          "type": "drums",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms"
+          ]
+        },
+        "intro_bass_song_2_42": {
+          "source_song": "song_2",
+          "ingredient": "bass_bass_segment_1",
+          "type": "bass",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms"
+          ]
+        },
+        "intro_other_song_2_43": {
+          "source_song": "song_2",
+          "ingredient": "other_harmonic_segment_1",
+          "type": "other",
+          "effects": [
+            "volume: 0dB",
+            "fade_in: 2000ms"
+          ]
+        }
+      },
+      "duration_ms": 15000
+    },
+    {
+      "time_range": "15000-30000ms",
+      "section_name": "verse_1",
+      "story_purpose": "Building energy with both songs",
+      "molecules": {
+        "verse_1_vocal_song_1_0": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_1",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_1_1": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_2",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_1_2": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_3",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_1_3": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_4",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_1_4": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_5",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_1_5": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_6",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_1_6": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_7",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_1_7": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_8",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_1_8": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_9",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_1_9": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_10",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_1_10": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_11",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_1_11": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_12",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_1_12": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_13",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_1_13": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_14",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_1_14": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_15",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_1_15": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_16",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_1_16": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_17",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_1_17": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_18",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_1_18": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_19",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_drums_song_1_19": {
+          "source_song": "song_1",
+          "ingredient": "drums_drum_segment_1",
+          "type": "drums",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "verse_1_bass_song_1_20": {
+          "source_song": "song_1",
+          "ingredient": "bass_bass_segment_1",
+          "type": "bass",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "verse_1_other_song_1_21": {
+          "source_song": "song_1",
+          "ingredient": "other_harmonic_segment_1",
+          "type": "other",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "verse_1_vocal_song_2_22": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_1",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_2_23": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_2",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_2_24": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_3",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_2_25": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_4",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_2_26": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_5",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_2_27": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_6",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_2_28": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_7",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_2_29": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_8",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_2_30": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_9",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_2_31": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_10",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_2_32": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_11",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_2_33": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_12",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_2_34": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_13",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_2_35": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_14",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_2_36": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_15",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_2_37": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_16",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_2_38": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_17",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_2_39": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_18",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_vocal_song_2_40": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_19",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "verse_1_drums_song_2_41": {
+          "source_song": "song_2",
+          "ingredient": "drums_drum_segment_1",
+          "type": "drums",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "verse_1_bass_song_2_42": {
+          "source_song": "song_2",
+          "ingredient": "bass_bass_segment_1",
+          "type": "bass",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "verse_1_other_song_2_43": {
+          "source_song": "song_2",
+          "ingredient": "other_harmonic_segment_1",
+          "type": "other",
+          "effects": [
+            "volume: 0dB"
+          ]
+        }
+      },
+      "duration_ms": 15000
+    },
+    {
+      "time_range": "30000-45000ms",
+      "section_name": "transition_1",
+      "story_purpose": "Song 2 takes lead",
+      "molecules": {
+        "transition_1_vocal_song_1_0": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_1",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_1_1": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_2",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_1_2": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_3",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_1_3": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_4",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_1_4": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_5",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_1_5": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_6",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_1_6": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_7",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_1_7": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_8",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_1_8": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_9",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_1_9": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_10",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_1_10": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_11",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_1_11": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_12",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_1_12": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_13",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_1_13": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_14",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_1_14": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_15",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_1_15": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_16",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_1_16": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_17",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_1_17": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_18",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_1_18": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_19",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_drums_song_1_19": {
+          "source_song": "song_1",
+          "ingredient": "drums_drum_segment_1",
+          "type": "drums",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "transition_1_bass_song_1_20": {
+          "source_song": "song_1",
+          "ingredient": "bass_bass_segment_1",
+          "type": "bass",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "transition_1_other_song_1_21": {
+          "source_song": "song_1",
+          "ingredient": "other_harmonic_segment_1",
+          "type": "other",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "transition_1_vocal_song_2_22": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_1",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_2_23": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_2",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_2_24": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_3",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_2_25": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_4",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_2_26": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_5",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_2_27": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_6",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_2_28": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_7",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_2_29": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_8",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_2_30": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_9",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_2_31": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_10",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_2_32": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_11",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_2_33": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_12",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_2_34": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_13",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_2_35": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_14",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_2_36": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_15",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_2_37": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_16",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_2_38": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_17",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_2_39": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_18",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_vocal_song_2_40": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_19",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "transition_1_drums_song_2_41": {
+          "source_song": "song_2",
+          "ingredient": "drums_drum_segment_1",
+          "type": "drums",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "transition_1_bass_song_2_42": {
+          "source_song": "song_2",
+          "ingredient": "bass_bass_segment_1",
+          "type": "bass",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "transition_1_other_song_2_43": {
+          "source_song": "song_2",
+          "ingredient": "other_harmonic_segment_1",
+          "type": "other",
+          "effects": [
+            "volume: 0dB"
+          ]
+        }
+      },
+      "duration_ms": 15000
+    },
+    {
+      "time_range": "45000-60000ms",
+      "section_name": "chorus_1",
+      "story_purpose": "First chorus blend",
+      "molecules": {
+        "chorus_1_vocal_song_1_0": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_1",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_1_1": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_2",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_1_2": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_3",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_1_3": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_4",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_1_4": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_5",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_1_5": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_6",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_1_6": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_7",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_1_7": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_8",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_1_8": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_9",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_1_9": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_10",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_1_10": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_11",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_1_11": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_12",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_1_12": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_13",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_1_13": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_14",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_1_14": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_15",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_1_15": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_16",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_1_16": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_17",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_1_17": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_18",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_1_18": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_19",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_drums_song_1_19": {
+          "source_song": "song_1",
+          "ingredient": "drums_drum_segment_1",
+          "type": "drums",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "chorus_1_bass_song_1_20": {
+          "source_song": "song_1",
+          "ingredient": "bass_bass_segment_1",
+          "type": "bass",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "chorus_1_other_song_1_21": {
+          "source_song": "song_1",
+          "ingredient": "other_harmonic_segment_1",
+          "type": "other",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "chorus_1_vocal_song_2_22": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_1",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_2_23": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_2",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_2_24": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_3",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_2_25": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_4",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_2_26": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_5",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_2_27": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_6",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_2_28": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_7",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_2_29": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_8",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_2_30": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_9",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_2_31": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_10",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_2_32": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_11",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_2_33": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_12",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_2_34": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_13",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_2_35": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_14",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_2_36": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_15",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_2_37": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_16",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_2_38": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_17",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_2_39": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_18",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_vocal_song_2_40": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_19",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "chorus_1_drums_song_2_41": {
+          "source_song": "song_2",
+          "ingredient": "drums_drum_segment_1",
+          "type": "drums",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "chorus_1_bass_song_2_42": {
+          "source_song": "song_2",
+          "ingredient": "bass_bass_segment_1",
+          "type": "bass",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "chorus_1_other_song_2_43": {
+          "source_song": "song_2",
+          "ingredient": "other_harmonic_segment_1",
+          "type": "other",
+          "effects": [
+            "volume: 0dB"
+          ]
+        }
+      },
+      "duration_ms": 15000
+    },
+    {
+      "time_range": "60000-75000ms",
+      "section_name": "bridge",
+      "story_purpose": "Breakdown section",
+      "molecules": {
+        "bridge_vocal_song_1_0": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_1",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_1_1": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_2",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_1_2": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_3",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_1_3": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_4",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_1_4": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_5",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_1_5": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_6",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_1_6": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_7",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_1_7": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_8",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_1_8": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_9",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_1_9": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_10",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_1_10": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_11",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_1_11": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_12",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_1_12": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_13",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_1_13": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_14",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_1_14": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_15",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_1_15": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_16",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_1_16": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_17",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_1_17": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_18",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_1_18": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_19",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_drums_song_1_19": {
+          "source_song": "song_1",
+          "ingredient": "drums_drum_segment_1",
+          "type": "drums",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "bridge_bass_song_1_20": {
+          "source_song": "song_1",
+          "ingredient": "bass_bass_segment_1",
+          "type": "bass",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "bridge_other_song_1_21": {
+          "source_song": "song_1",
+          "ingredient": "other_harmonic_segment_1",
+          "type": "other",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "bridge_vocal_song_2_22": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_1",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_2_23": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_2",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_2_24": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_3",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_2_25": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_4",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_2_26": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_5",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_2_27": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_6",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_2_28": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_7",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_2_29": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_8",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_2_30": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_9",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_2_31": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_10",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_2_32": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_11",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_2_33": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_12",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_2_34": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_13",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_2_35": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_14",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_2_36": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_15",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_2_37": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_16",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_2_38": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_17",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_2_39": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_18",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_vocal_song_2_40": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_19",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "bridge_drums_song_2_41": {
+          "source_song": "song_2",
+          "ingredient": "drums_drum_segment_1",
+          "type": "drums",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "bridge_bass_song_2_42": {
+          "source_song": "song_2",
+          "ingredient": "bass_bass_segment_1",
+          "type": "bass",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "bridge_other_song_2_43": {
+          "source_song": "song_2",
+          "ingredient": "other_harmonic_segment_1",
+          "type": "other",
+          "effects": [
+            "volume: 0dB"
+          ]
+        }
+      },
+      "duration_ms": 15000
+    },
+    {
+      "time_range": "75000-90000ms",
+      "section_name": "buildup",
+      "story_purpose": "Building to climax",
+      "molecules": {
+        "buildup_vocal_song_1_0": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_1",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_1_1": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_2",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_1_2": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_3",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_1_3": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_4",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_1_4": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_5",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_1_5": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_6",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_1_6": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_7",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_1_7": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_8",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_1_8": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_9",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_1_9": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_10",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_1_10": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_11",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_1_11": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_12",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_1_12": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_13",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_1_13": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_14",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_1_14": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_15",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_1_15": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_16",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_1_16": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_17",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_1_17": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_18",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_1_18": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_19",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_drums_song_1_19": {
+          "source_song": "song_1",
+          "ingredient": "drums_drum_segment_1",
+          "type": "drums",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "buildup_bass_song_1_20": {
+          "source_song": "song_1",
+          "ingredient": "bass_bass_segment_1",
+          "type": "bass",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "buildup_other_song_1_21": {
+          "source_song": "song_1",
+          "ingredient": "other_harmonic_segment_1",
+          "type": "other",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "buildup_vocal_song_2_22": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_1",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_2_23": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_2",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_2_24": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_3",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_2_25": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_4",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_2_26": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_5",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_2_27": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_6",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_2_28": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_7",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_2_29": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_8",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_2_30": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_9",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_2_31": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_10",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_2_32": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_11",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_2_33": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_12",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_2_34": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_13",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_2_35": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_14",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_2_36": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_15",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_2_37": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_16",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_2_38": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_17",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_2_39": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_18",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_vocal_song_2_40": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_19",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "buildup_drums_song_2_41": {
+          "source_song": "song_2",
+          "ingredient": "drums_drum_segment_1",
+          "type": "drums",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "buildup_bass_song_2_42": {
+          "source_song": "song_2",
+          "ingredient": "bass_bass_segment_1",
+          "type": "bass",
+          "effects": [
+            "volume: 0dB"
+          ]
+        },
+        "buildup_other_song_2_43": {
+          "source_song": "song_2",
+          "ingredient": "other_harmonic_segment_1",
+          "type": "other",
+          "effects": [
+            "volume: 0dB"
+          ]
+        }
+      },
+      "duration_ms": 15000
+    },
+    {
+      "time_range": "90000-105000ms",
+      "section_name": "climax",
+      "story_purpose": "Both choruses layered",
+      "molecules": {
+        "climax_vocal_song_1_0": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_1",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_1_1": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_2",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_1_2": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_3",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_1_3": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_4",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_1_4": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_5",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_1_5": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_6",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_1_6": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_7",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_1_7": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_8",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_1_8": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_9",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_1_9": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_10",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_1_10": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_11",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_1_11": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_12",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_1_12": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_13",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_1_13": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_14",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_1_14": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_15",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_1_15": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_16",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_1_16": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_17",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_1_17": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_18",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_1_18": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_19",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_drums_song_1_19": {
+          "source_song": "song_1",
+          "ingredient": "drums_drum_segment_1",
+          "type": "drums",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%"
+          ]
+        },
+        "climax_bass_song_1_20": {
+          "source_song": "song_1",
+          "ingredient": "bass_bass_segment_1",
+          "type": "bass",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%"
+          ]
+        },
+        "climax_other_song_1_21": {
+          "source_song": "song_1",
+          "ingredient": "other_harmonic_segment_1",
+          "type": "other",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%"
+          ]
+        },
+        "climax_vocal_song_2_22": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_1",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_2_23": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_2",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_2_24": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_3",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_2_25": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_4",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_2_26": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_5",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_2_27": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_6",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_2_28": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_7",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_2_29": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_8",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_2_30": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_9",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_2_31": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_10",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_2_32": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_11",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_2_33": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_12",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_2_34": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_13",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_2_35": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_14",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_2_36": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_15",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_2_37": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_16",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_2_38": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_17",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_2_39": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_18",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_vocal_song_2_40": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_19",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "climax_drums_song_2_41": {
+          "source_song": "song_2",
+          "ingredient": "drums_drum_segment_1",
+          "type": "drums",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%"
+          ]
+        },
+        "climax_bass_song_2_42": {
+          "source_song": "song_2",
+          "ingredient": "bass_bass_segment_1",
+          "type": "bass",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%"
+          ]
+        },
+        "climax_other_song_2_43": {
+          "source_song": "song_2",
+          "ingredient": "other_harmonic_segment_1",
+          "type": "other",
+          "effects": [
+            "volume: 0dB",
+            "volume: +2dB",
+            "stereo_width: 120%"
+          ]
+        }
+      },
+      "duration_ms": 15000
+    },
+    {
+      "time_range": "105000-120000ms",
+      "section_name": "outro",
+      "story_purpose": "Resolution and fade",
+      "molecules": {
+        "outro_vocal_song_1_0": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_1",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_1_1": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_2",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_1_2": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_3",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_1_3": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_4",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_1_4": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_5",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_1_5": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_6",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_1_6": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_7",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_1_7": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_8",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_1_8": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_9",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_1_9": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_10",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_1_10": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_11",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_1_11": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_12",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_1_12": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_13",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_1_13": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_14",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_1_14": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_15",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_1_15": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_16",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_1_16": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_17",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_1_17": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_18",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_1_18": {
+          "source_song": "song_1",
+          "ingredient": "vocals_vocal_phrase_19",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_drums_song_1_19": {
+          "source_song": "song_1",
+          "ingredient": "drums_drum_segment_1",
+          "type": "drums",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms"
+          ]
+        },
+        "outro_bass_song_1_20": {
+          "source_song": "song_1",
+          "ingredient": "bass_bass_segment_1",
+          "type": "bass",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms"
+          ]
+        },
+        "outro_other_song_1_21": {
+          "source_song": "song_1",
+          "ingredient": "other_harmonic_segment_1",
+          "type": "other",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms"
+          ]
+        },
+        "outro_vocal_song_2_22": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_1",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_2_23": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_2",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_2_24": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_3",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_2_25": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_4",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_2_26": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_5",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_2_27": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_6",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_2_28": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_7",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_2_29": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_8",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_2_30": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_9",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_2_31": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_10",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_2_32": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_11",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_2_33": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_12",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_2_34": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_13",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_2_35": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_14",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_2_36": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_15",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_2_37": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_16",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_2_38": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_17",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_2_39": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_18",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_vocal_song_2_40": {
+          "source_song": "song_2",
+          "ingredient": "vocals_vocal_phrase_19",
+          "type": "vocal",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms",
+            "vocal_clarity: +1dB"
+          ]
+        },
+        "outro_drums_song_2_41": {
+          "source_song": "song_2",
+          "ingredient": "drums_drum_segment_1",
+          "type": "drums",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms"
+          ]
+        },
+        "outro_bass_song_2_42": {
+          "source_song": "song_2",
+          "ingredient": "bass_bass_segment_1",
+          "type": "bass",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms"
+          ]
+        },
+        "outro_other_song_2_43": {
+          "source_song": "song_2",
+          "ingredient": "other_harmonic_segment_1",
+          "type": "other",
+          "effects": [
+            "volume: 0dB",
+            "fade_out: 3000ms"
+          ]
+        }
+      },
+      "duration_ms": 15000
+    }
+  ],
+  "producer_recipe": {
+    "story_plan": {
+      "arrangement_philosophy": "I'm creating a sonic metamorphosis that mirrors the human journey from obsessive pain to transcendent liberation. This isn't just a mashup\u2014it's an emotional architecture where 'Mr. Brightside's' raw vulnerability becomes the foundation for 'Levels'' euphoric ascension. Every element serves Luna's narrative: the arrangement literally transforms darkness into light through precise harmonic layering, strategic frequency separation, and dynamic storytelling that makes the listener feel they're experiencing their own emotional breakthrough.",
+      "timeline_architecture": [
+        {
+          "time_range": "0:00-0:25",
+          "section_name": "Vulnerable Opening - The Confession",
+          "narrative_purpose": "Establish intimate emotional vulnerability - we're inside the protagonist's mind during their darkest moment of obsession",
+          "musical_arrangement": {
+            "primary_elements": "Mr. Brightside vocals (dry, close-mic'd) with minimal guitar arpeggios, creating confessional intimacy",
+            "supporting_elements": "Subtle Levels synth pad (heavily low-passed at 200Hz) providing harmonic foundation without revealing its identity",
+            "spatial_design": "Vocals center-stage, guitar slightly left, mysterious pad wide and deep in background",
+            "dynamic_curve": "Intentionally restrained - building from whisper-quiet to conversational volume",
+            "frequency_strategy": "Vocals occupy 1-4kHz clarity zone, guitar in mid-range, pad fills sub-bass warmth"
+          },
+          "transition_out": "Guitar pattern begins to sync with Levels' underlying pulse - the first hint of transformation"
+        },
+        {
+          "time_range": "0:25-0:50",
+          "section_name": "Rising Tension - The Struggle",
+          "narrative_purpose": "Internal conflict intensifies - obsession deepens but desire for escape begins stirring",
+          "musical_arrangement": {
+            "primary_elements": "Mr. Brightside vocals gain intensity, full band enters with controlled aggression",
+            "supporting_elements": "Levels synth arpeggios emerge (high-passed, crystalline) like hope breaking through darkness",
+            "spatial_design": "Rock elements left-center, electronic elements right-center, creating sonic tension",
+            "dynamic_curve": "Steady climb from intimate to urgent - building pressure without release",
+            "frequency_strategy": "Rock elements claim 200Hz-2kHz, electronics sparkle in 4-8kHz range, creating frequency dialogue"
+          },
+          "transition_out": "Levels kick drum begins ghosting underneath - the heartbeat of transformation"
+        },
+        {
+          "time_range": "0:50-1:15",
+          "section_name": "The Awakening - Dual Consciousness",
+          "narrative_purpose": "Protagonist realizes they have a choice - stay trapped in obsession or reach for transcendence",
+          "musical_arrangement": {
+            "primary_elements": "Both songs at equal strength - Mr. Brightside chorus with Levels pre-drop building simultaneously",
+            "supporting_elements": "Harmonic bridge elements I'll create - sustained strings that connect both keys",
+            "spatial_design": "Full stereo width - rock left, electronic right, bridge elements center creating unity",
+            "dynamic_curve": "Exponential build - every 4 bars adds new layer, creating inevitable momentum",
+            "frequency_strategy": "Full spectrum engagement - each element has its defined space, building wall of sound"
+          },
+          "transition_out": "Everything drops except heartbeat kick and one sustained note - the moment of choice"
+        },
+        {
+          "time_range": "1:15-1:40",
+          "section_name": "The Cathartic Climax - Transformation",
+          "narrative_purpose": "The breakthrough moment - pain transforms into liberation, obsession becomes transcendence",
+          "musical_arrangement": {
+            "primary_elements": "Levels drop explodes while Mr. Brightside 'I'm Mr. Brightside' becomes triumphant declaration",
+            "supporting_elements": "Orchestral stabs I'll add for maximum emotional impact, white noise sweeps for euphoria",
+            "spatial_design": "Massive stereo image - elements bouncing left-right creating movement and celebration",
+            "dynamic_curve": "Peak intensity - everything at maximum emotional volume without distortion",
+            "frequency_strategy": "Full frequency spectrum celebration - sub-bass power, mid-range warmth, high-frequency sparkle"
+          },
+          "transition_out": "Gradual element removal while maintaining energy - preparing for resolution"
+        },
+        {
+          "time_range": "1:40-2:00",
+          "section_name": "Transcendent Resolution - New Beginning",
+          "narrative_purpose": "Integration and hope - the protagonist has transformed pain into wisdom and strength",
+          "musical_arrangement": {
+            "primary_elements": "Levels melody dominant but now warm and resolved, Mr. Brightside vocals return as confident whisper",
+            "supporting_elements": "Gentle acoustic guitar fingerpicking, soft pad wash, representing peace after storm",
+            "spatial_design": "Return to intimacy but with width - centered but spacious, like a peaceful sunrise",
+            "dynamic_curve": "Gentle descent from peak to satisfied resolution - not deflation but fulfillment",
+            "frequency_strategy": "Warm mid-range focus with gentle high-frequency air - comforting but uplifting"
+          },
+          "transition_out": "Final chord holds and slowly fades with subtle reverb tail - the story continues beyond the song"
+        }
+      ],
+      "critical_moments": [
+        {
+          "timestamp": "0:48-0:52",
+          "moment_type": "Harmonic Bridge Transition",
+          "technical_approach": "4-bar harmonic sequence using sustained strings to modulate between Mr. Brightside's A minor and Levels' C# minor - creating musical 'stepping stones' that make the key change feel inevitable",
+          "emotional_purpose": "This is the moment of realization - the protagonist sees the path from pain to transcendence"
+        },
+        {
+          "timestamp": "1:14-1:16",
+          "moment_type": "Silence Before Storm",
+          "technical_approach": "Everything drops to single kick drum and one sustained harmonic note, with 1-second complete silence before the drop - using negative space to maximize impact",
+          "emotional_purpose": "The moment of choice - complete vulnerability before the leap into transformation"
+        },
+        {
+          "timestamp": "1:16-1:20",
+          "moment_type": "Euphoric Explosion",
+          "technical_approach": "Levels drop hits with added orchestral stabs, Mr. Brightside vocals processed with euphoric reverb, white noise sweep, and carefully crafted harmonic clash that resolves into pure joy",
+          "emotional_purpose": "The breakthrough - pain becomes power, obsession becomes liberation"
+        }
+      ],
+      "climax_engineering": {
+        "buildup_strategy": "Three-stage tension curve: (1) Intimate confession builds to (2) Internal struggle with dual elements fighting for space, leading to (3) Inevitable momentum where both songs demand resolution simultaneously. Each stage adds harmonic complexity and dynamic intensity while maintaining emotional coherence.",
+        "peak_moment": "At 1:16, I'll create a harmonic collision where Mr. Brightside's 'I'm Mr. Brightside' declaration occurs simultaneously with Levels' euphoric drop. The technical magic: I'll pitch-shift and time-stretch elements so both songs' emotional peaks align perfectly, then add orchestral stabs in the harmonic sweet spot between both keys, creating a sound that's bigger than either song alone.",
+        "resolution_method": "Rather than sudden deflation, I'll create a 'golden ratio' descent - removing elements in mathematically pleasing intervals while maintaining the emotional high. The resolution isn't an ending but a transformation into peaceful strength."
+      },
+      "production_challenges": "The biggest challenge is the key difference (A minor vs C# minor) and tempo variance. My solution: I'll create custom harmonic bridge elements that act as musical 'translators' between the songs, plus I'll use advanced time-stretching to create tempo transitions that feel natural rather than forced. The emotional challenge is maintaining the narrative thread while serving both songs' individual power - I'll solve this by treating each song as a character in a dialogue, sometimes in harmony, sometimes in productive tension, always serving Luna's larger story of transformation."
+    },
+    "luna_molecular": {
+      "signature_moments": [
+        {
+          "timestamp": "0:48-0:52",
+          "creative_concept": "A transformative harmonic 'bridge' that symbolizes the realization of choice, leading to emotional liberation.",
+          "molecular_approach": "Use 'song_2' vocals (79) layered with sustained 'other' components (66) from song_2, pitch-shifted by +3 semitones to align with C# minor, creating a shimmering, hopeful overtone. Introduce a harmonic string motif from 'song_2' 'other' elements, thickened and delayed by 50ms, to 'stepping stone' the transition between keys.",
+          "processing_technique": "Apply granular synthesis to the 'vocals' with a 200ms attack, then reverb with a long decay to create a glowing texture. Use spectral filtering to amplify 4-8kHz sparkle, emphasizing hope. Layer a subtle chorus effect on 'vocals' with slight modulation for movement.",
+          "emotional_purpose": "This moment marks the protagonist's shift towards transcendence\u2014emotionally buoyant, visually cinematic."
+        },
+        {
+          "timestamp": "1:14-1:16",
+          "creative_concept": "The silent precipice\u2014maximizing vulnerability through negative space to heighten emotional tension before the explosion.",
+          "molecular_approach": "Mute 'song_1' vocals (85) and 'song_2' drums (99), leaving only a single 'bass' component from 'song_2' (50) with a gentle high-pass filter at 150Hz, slowly fading in. Introduce a small, pulsating 'other' element (66) with a 1Hz tremolo for subtle movement.",
+          "processing_technique": "Insert a one-second digital silence using precise automation, then reintroduce only the bass 'molecular' with a short, reverse reverb tail for a cavernous, haunting effect, amplifying the emotional weight of vulnerability.",
+          "emotional_purpose": "This space creates a visceral pause, symbolizing the internal decision point\u2014the leap into change."
+        },
+        {
+          "timestamp": "1:16-1:20",
+          "creative_concept": "Euphoric explosion\u2014an emotional catharsis where chaos and clarity collide, unleashing joy.",
+          "molecular_approach": "Drop 'song_2' 'vocals' (79) and 'drums' (99) into a massive stereo spread. Use 'song_1' 'vocals' (85) with a pitch-shift of +5 semitones and a short delay (30ms) layered with a lush reverb to create an ecstatic, enveloping choir effect. Add orchestral stabs from 'song_2' 'other' (66), synthesized in 3D space with random panning movements at 150ms intervals, to heighten the sense of celebration.",
+          "processing_technique": "Apply a multi-band distortion on 'song_1' vocals, with a harmonic exciter in the high frequencies for brilliance. Overlay white noise sweeps (based on 'song_2' 'other') with a 200ms fade-in, synchronized with the vocal explosion, to evoke euphoria.",
+          "emotional_purpose": "This is the moment of ultimate release\u2014the pain of obsession transmuted into joy, a sonic celebration of transformation."
+        }
+      ],
+      "vocal_artistry": [
+        {
+          "effect_type": "harmony_stack",
+          "implementation": "Stack 'song_2' vocals with slight pitch detuning (+2/-2 cents) layered with 'song_1' vocals doubled at a 10ms offset, creating a shimmering, chorusing effect. During the 'Climax,' automate a ascending filter sweep through 1kHz to 10kHz to heighten emotional intensity.",
+          "placement": "From 1:16 to 1:20, coinciding with the explosion, to elevate the vocal presence into a euphoric crescendo.",
+          "story_impact": "This layered vocal shimmer embodies the protagonist\u2019s soaring spirit\u2014lifting the listener into a euphoric state."
+        },
+        {
+          "effect_type": "call_response",
+          "implementation": "Extract the phrase 'I'm Mr. Brightside' from 'song_1', chop into 250ms fragments, and delay each segment by 40ms with a slight pitch shift (+4 semitones). Layer these phrases in a staggered, call-and-response pattern with the main vocal to intensify the declaration.",
+          "placement": "At the peak of the climax, from 1:18 to 1:20, to underscore the triumphant declaration.",
+          "story_impact": "This creates a moment of unison\u2014uncertain yet victorious\u2014heightening the emotional impact of surrender and emergence."
+        }
+      ],
+      "instrumental_magic": [
+        {
+          "instrument": "guitar from 'song_1'",
+          "creative_use": "Manipulate arpeggios into shimmering atmospheres by reversing and time-stretching individual notes, slowly building from minimal to complex textures during 'Rising Tension' (0:25-0:50). Integrate these with electronic 'Levels' synths in the 'Rising Tension' section, creating an interplay of organic and electronic tension.",
+          "timing": "Starting at 0:25, gradually evolving through to 0:50, then mutating into a lush pad in the 'Climax' (1:15-1:20).",
+          "interaction": "The guitar textures weave in and out of vocals, sometimes mimicking melodic contours, other times contrasting with dissonance to push emotional boundaries."
+        },
+        {
+          "instrument": "drums from 'song_2'",
+          "creative_use": "Use the 'song_2' drums (99) as a rhythmic backbone, stretching beats via granular synthesis for moments of tension (e.g., 0:50-1:15), then slicing and rearranging to create unpredictable fills during the 'Climax.' Introduce snare rolls with a rising pitch and delay to build anticipation.",
+          "timing": "Embed rhythmic complexity in the 'Rising Tension' and 'Climax' sections, culminating in chaotic, joyful flurries at 1:16-1:20.",
+          "interaction": "Syncopated drums underpin the melodic layers, anchoring chaos in rhythm and emphasizing emotional peaks."
+        }
+      ],
+      "transition_artistry": "Seamless yet surprising. Use reverse reverb tails on 'song_2' 'other' components to lead into 'climax' moments, creating a sonic funnel that pulls the listener through each emotional stage. For the key modulation at 0:48-0:52, I\u2019ll employ spectral morphing on 'song_2' 'vocals' and 'other' elements\u2014gradually shifting frequencies and phasing to make the harmonic transition feel organic and inevitable, akin to a musical 'bridge' that is both magical and seamless.",
+      "climax_technique": "At 1:16, I\u2019ll layer 'song_1' vocals double-tracked with slight pitch shifts (+3 and -3 cents) and introduce a harmonic crossfade of 'song_2' synth arpeggios (high-passed, crystalline). I\u2019ll add orchestral 'stabs' from the 'song_2' 'other' pool, carefully placed at harmonic junctions, then modulate stereo width rapidly to create a bouncing, euphoric space that explodes outward\u2014an emotional tidal wave crafted from molecular precision."
+    }
+  },
+  "total_molecular_components": 626,
+  "creation_timestamp": 1750128607.454823,
+  "narrative_focus": true
+}

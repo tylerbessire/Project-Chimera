@@ -1,0 +1,116 @@
+{
+  "mashup_recipe": {
+    "title": "Goodbye Mr. Brightside",
+    "source_tracks": {
+      "track_a": {
+        "artist": "James Blunt",
+        "song": "Goodbye My Lover",
+        "original_key": "C",
+        "original_bpm": 120,
+        "role": "emotional_foundation"
+      },
+      "track_b": {
+        "artist": "The Killers",
+        "song": "Mr. Brightside",
+        "original_key": "C#",
+        "original_bpm": 164,
+        "role": "energy_climax"
+      }
+    },
+    "key_harmonization": {
+      "target_key": "C#",
+      "method": "pitch_shift_track_a_up_semitone",
+      "rationale": "Creates subtle vocal urgency in Blunt track while preserving Killers' manic energy"
+    },
+    "tempo_evolution": {
+      "approach": "gradual_metamorphosis",
+      "structure": [
+        {
+          "section": "intro_verse",
+          "bpm": 120,
+          "duration": "0:00-1:30",
+          "elements": [
+            "goodbye_my_lover_vocals",
+            "original_guitar",
+            "subtle_brightside_percussion_halfTime"
+          ]
+        },
+        {
+          "section": "build_transition",
+          "bpm": "120_to_140",
+          "duration": "1:30-2:15",
+          "elements": [
+            "layered_percussion",
+            "brightside_guitar_stabs_punctuation",
+            "vocal_crossfade_prep"
+          ]
+        },
+        {
+          "section": "climax_drop",
+          "bpm": 164,
+          "duration": "2:15-3:45",
+          "elements": [
+            "mr_brightside_vocals",
+            "full_brightside_energy",
+            "goodbye_chord_progression_foundation"
+          ]
+        }
+      ]
+    },
+    "arrangement_details": {
+      "harmonic_foundation": "goodbye_my_lover_chord_progression",
+      "energy_layers": {
+        "low_energy": [
+          "acoustic_guitar",
+          "subtle_strings",
+          "intimate_vocals"
+        ],
+        "transition": [
+          "building_drums",
+          "brightside_guitar_stabs",
+          "harmonic_interweaving"
+        ],
+        "high_energy": [
+          "full_brightside_instrumentation",
+          "driving_eighth_notes",
+          "anthemic_vocals"
+        ]
+      }
+    },
+    "vocal_approach": {
+      "style": "distinct_sections_with_crossfade",
+      "execution": [
+        {
+          "section": "verses",
+          "lead": "james_blunt_vocals",
+          "treatment": "pitched_up_semitone_for_urgency",
+          "backing": "none"
+        },
+        {
+          "section": "transition",
+          "lead": "vocal_crossfade",
+          "treatment": "blend_both_artists",
+          "backing": "harmonic_layering"
+        },
+        {
+          "section": "chorus_climax",
+          "lead": "killers_vocals",
+          "treatment": "full_brightside_energy",
+          "backing": "blunt_harmonies_underneath"
+        }
+      ]
+    },
+    "technical_processing": {
+      "time_stretching": "preserve_formants_during_tempo_changes",
+      "rhythmic_layering": "brightside_eighth_notes_introduced_at_halftime_120bpm",
+      "guitar_blend": "melancholic_lines_weave_into_infectious_riffs",
+      "emotional_arc": "vulnerable_introspection_to_anthemic_energy"
+    },
+    "creative_focus": {
+      "primary_goal": "emotional_juxtaposition",
+      "execution": "raw_vulnerability_woven_into_upbeat_anthem",
+      "listener_experience": "deeper_emotional_connection_through_energy_contrast",
+      "innovation": "tempo_mapped_build_culminating_in_punchy_drop"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "mashup_recipe": {
+    "project_title": "Goodbye Mr. Brightside",
+    "base_tracks": {
+      "track_a": {
+        "song": "Goodbye My Lover",
+        "original_key": "C major",
+        "original_bpm": 120,
+        "role": "emotional foundation"
+      },
+      "track_b": {
+        "song": "Mr. Brightside",
+        "original_key": "D major",
+        "original_bpm": 161.5,
+        "role": "energy driver"
+      }
+    },
+    "harmonic_treatment": {
+      "key_strategy": "creative_tension",
+      "approach": "Use C-D major whole step difference as harmonic element",
+      "alternatives": [
+        "pitch_shift_one_track",
+        "modulation_bridges"
+      ]
+    },
+    "tempo_architecture": {
+      "target_bpm": 140,
+      "track_a_processing": {
+        "method": "elastic_audio_time_stretch",
+        "from_bpm": 120,
+        "to_bpm": 140,
+        "preserve": "emotional_weight"
+      },
+      "track_b_processing": {
+        "method": "half_time_sections",
+        "effective_bpm": 80,
+        "technique": "rhythmic_subdivision"
+      }
+    },
+    "arrangement_structure": {
+      "concept": "emotional_rollercoaster",
+      "pattern": "vulnerability_to_intensity_cycles",
+      "transitions": {
+        "smooth_sections": "mellow_mood_matching",
+        "explosive_moments": "burst_into_high_energy"
+      }
+    },
+    "vocal_manipulation": {
+      "primary_technique": "granular_synthesis",
+      "source": "track_a_vocal_snippets",
+      "treatment": [
+        "time_stretch_while_preserving_emotion",
+        "layer_as_ghostly_echoes",
+        "pitch_shift_for_harmonies"
+      ],
+      "placement": "overlay_on_driving_sections"
+    },
+    "transition_fx": {
+      "smooth_transitions": {
+        "eq_sweeps": "dynamic_multiband",
+        "compression": "multiband_gradual_filtering",
+        "filter_method": "gradually_remove_lows_and_mids"
+      },
+      "explosive_transitions": {
+        "technique": "frequency_slam_back",
+        "pre_effect": "reverse_reverb_swell",
+        "timing": "right_before_rock_chorus_hits"
+      }
+    },
+    "rhythm_enhancements": {
+      "beat_sync_effects": [
+        "delays",
+        "reverbs"
+      ],
+      "syncopation": "fresh_energetic_feel",
+      "preserve": "emotional_impact"
+    },
+    "sonic_journey_map": {
+      "verse_sections": "heartfelt_ballad_foundation",
+      "chorus_sections": "energetic_rock_drive",
+      "bridges": "vocal_snippet_overlays",
+      "climax": "full_harmonic_tension_release"
+    },
+    "production_notes": {
+      "stems_required": "full_separation_preferred",
+      "fallback": "creative_source_separation",
+      "key_preservation": "emotional_content_over_technical_perfection"
+    }
+  }
+}

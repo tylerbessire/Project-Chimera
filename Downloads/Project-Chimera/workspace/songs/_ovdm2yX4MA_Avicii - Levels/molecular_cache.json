@@ -1,0 +1,2068 @@
+{
+  "vocals": {
+    "vocal_phrase_1": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 0,
+      "end_ms": 3000,
+      "energy_db": -29.86868390283995
+    },
+    "vocal_phrase_2": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 2500,
+      "end_ms": 5500,
+      "energy_db": -30.248409288121998
+    },
+    "vocal_phrase_3": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 5000,
+      "end_ms": 8000,
+      "energy_db": -30.56461410103426
+    },
+    "vocal_phrase_4": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 7500,
+      "end_ms": 10500,
+      "energy_db": -24.441747604965446
+    },
+    "vocal_phrase_5": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 10000,
+      "end_ms": 13000,
+      "energy_db": -27.257117140644958
+    },
+    "vocal_phrase_6": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 12500,
+      "end_ms": 15500,
+      "energy_db": -31.969397752786712
+    },
+    "vocal_phrase_7": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 15000,
+      "end_ms": 18000,
+      "energy_db": -32.02213555680554
+    },
+    "vocal_phrase_8": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 17500,
+      "end_ms": 20500,
+      "energy_db": -29.77016614001377
+    },
+    "vocal_phrase_9": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 20000,
+      "end_ms": 23000,
+      "energy_db": -27.818914202508715
+    },
+    "vocal_phrase_10": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 22500,
+      "end_ms": 25500,
+      "energy_db": -26.956745244643756
+    },
+    "vocal_phrase_11": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 25000,
+      "end_ms": 28000,
+      "energy_db": -28.232924280075217
+    },
+    "vocal_phrase_12": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 27500,
+      "end_ms": 30500,
+      "energy_db": -27.46746947772866
+    },
+    "vocal_phrase_13": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 30000,
+      "end_ms": 33000,
+      "energy_db": -25.588335756841637
+    },
+    "vocal_phrase_14": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 32500,
+      "end_ms": 35500,
+      "energy_db": -27.593628407837908
+    },
+    "vocal_phrase_15": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 35000,
+      "end_ms": 38000,
+      "energy_db": -29.402539123461207
+    },
+    "vocal_phrase_16": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 37500,
+      "end_ms": 40500,
+      "energy_db": -24.67469929864844
+    },
+    "vocal_phrase_17": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 40000,
+      "end_ms": 43000,
+      "energy_db": -26.51919242520701
+    },
+    "vocal_phrase_18": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 42500,
+      "end_ms": 45500,
+      "energy_db": -32.64713152768056
+    },
+    "vocal_phrase_19": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 45000,
+      "end_ms": 48000,
+      "energy_db": -30.74538836044608
+    },
+    "vocal_phrase_20": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 47500,
+      "end_ms": 50500,
+      "energy_db": -25.12190015303367
+    },
+    "vocal_phrase_21": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 50000,
+      "end_ms": 53000,
+      "energy_db": -21.74630281861858
+    },
+    "vocal_phrase_22": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 52500,
+      "end_ms": 55500,
+      "energy_db": -23.71697373206398
+    },
+    "vocal_phrase_23": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 55000,
+      "end_ms": 58000,
+      "energy_db": -24.633931032543824
+    },
+    "vocal_phrase_24": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 57500,
+      "end_ms": 60500,
+      "energy_db": -26.620848990947955
+    },
+    "vocal_phrase_25": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 60000,
+      "end_ms": 63000,
+      "energy_db": -34.03737892783052
+    },
+    "vocal_phrase_26": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 62500,
+      "end_ms": 65500,
+      "energy_db": -33.60787666479203
+    },
+    "vocal_phrase_27": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 65000,
+      "end_ms": 68000,
+      "energy_db": -35.629012968426615
+    },
+    "vocal_phrase_28": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 67500,
+      "end_ms": 70500,
+      "energy_db": -36.191724453515974
+    },
+    "vocal_phrase_29": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 70000,
+      "end_ms": 73000,
+      "energy_db": -39.231338166316874
+    },
+    "vocal_phrase_30": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 72500,
+      "end_ms": 75500,
+      "energy_db": -40.9125583796311
+    },
+    "vocal_phrase_31": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 75000,
+      "end_ms": 78000,
+      "energy_db": -29.004876138108116
+    },
+    "vocal_phrase_32": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 77500,
+      "end_ms": 80500,
+      "energy_db": -27.644609564544467
+    },
+    "vocal_phrase_33": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 80000,
+      "end_ms": 83000,
+      "energy_db": -26.091931392896495
+    },
+    "vocal_phrase_34": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 82500,
+      "end_ms": 85500,
+      "energy_db": -15.73543136217608
+    },
+    "vocal_phrase_35": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 85000,
+      "end_ms": 88000,
+      "energy_db": -15.514388127900007
+    },
+    "vocal_phrase_36": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 87500,
+      "end_ms": 90500,
+      "energy_db": -21.59529594036176
+    },
+    "vocal_phrase_37": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 90000,
+      "end_ms": 93000,
+      "energy_db": -20.22774104562052
+    },
+    "vocal_phrase_38": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 92500,
+      "end_ms": 95500,
+      "energy_db": -13.827784350821295
+    },
+    "vocal_phrase_39": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 95000,
+      "end_ms": 98000,
+      "energy_db": -19.294650229808703
+    },
+    "vocal_phrase_40": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 97500,
+      "end_ms": 100500,
+      "energy_db": -15.72732355832212
+    },
+    "vocal_phrase_41": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 100000,
+      "end_ms": 103000,
+      "energy_db": -14.871372295392382
+    },
+    "vocal_phrase_42": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 102500,
+      "end_ms": 105500,
+      "energy_db": -20.77816251864578
+    },
+    "vocal_phrase_43": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 105000,
+      "end_ms": 108000,
+      "energy_db": -22.600448403091747
+    },
+    "vocal_phrase_44": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 107500,
+      "end_ms": 110500,
+      "energy_db": -13.868253737742652
+    },
+    "vocal_phrase_45": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 110000,
+      "end_ms": 113000,
+      "energy_db": -19.1708933180854
+    },
+    "vocal_phrase_46": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 112500,
+      "end_ms": 115500,
+      "energy_db": -21.857201902164714
+    },
+    "vocal_phrase_47": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 115000,
+      "end_ms": 118000,
+      "energy_db": -30.74538836044608
+    },
+    "vocal_phrase_48": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 117500,
+      "end_ms": 120500,
+      "energy_db": -35.905812631075214
+    },
+    "vocal_phrase_49": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 120000,
+      "end_ms": 123000,
+      "energy_db": -36.540602259140144
+    },
+    "vocal_phrase_50": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 122500,
+      "end_ms": 125500,
+      "energy_db": -29.520716315671613
+    },
+    "vocal_phrase_51": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 125000,
+      "end_ms": 128000,
+      "energy_db": -27.92388091363562
+    },
+    "vocal_phrase_52": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 127500,
+      "end_ms": 130500,
+      "energy_db": -30.47561855159539
+    },
+    "vocal_phrase_53": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 130000,
+      "end_ms": 133000,
+      "energy_db": -31.57872384961649
+    },
+    "vocal_phrase_54": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 132500,
+      "end_ms": 135500,
+      "energy_db": -31.979919728195853
+    },
+    "vocal_phrase_55": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 135000,
+      "end_ms": 138000,
+      "energy_db": -38.57725260575926
+    },
+    "vocal_phrase_56": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 137500,
+      "end_ms": 140500,
+      "energy_db": -39.353504591437904
+    },
+    "vocal_phrase_57": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 140000,
+      "end_ms": 143000,
+      "energy_db": -40.09809849506211
+    },
+    "vocal_phrase_58": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 142500,
+      "end_ms": 145500,
+      "energy_db": -39.304431638092474
+    },
+    "vocal_phrase_59": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 145000,
+      "end_ms": 148000,
+      "energy_db": -40.76657360480111
+    },
+    "vocal_phrase_60": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 147500,
+      "end_ms": 150500,
+      "energy_db": -41.58574575837924
+    },
+    "vocal_phrase_61": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 150000,
+      "end_ms": 153000,
+      "energy_db": -41.876920161797734
+    },
+    "vocal_phrase_62": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 152500,
+      "end_ms": 155500,
+      "energy_db": -43.539868827102254
+    },
+    "vocal_phrase_63": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 155000,
+      "end_ms": 158000,
+      "energy_db": -43.03675910135147
+    },
+    "vocal_phrase_64": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 157500,
+      "end_ms": 160500,
+      "energy_db": -34.06410476318697
+    },
+    "vocal_phrase_65": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 160000,
+      "end_ms": 163000,
+      "energy_db": -37.053842065562876
+    },
+    "vocal_phrase_66": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 162500,
+      "end_ms": 165500,
+      "energy_db": -39.603116298338946
+    },
+    "vocal_phrase_67": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 165000,
+      "end_ms": 168000,
+      "energy_db": -40.53798436918547
+    },
+    "vocal_phrase_68": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 167500,
+      "end_ms": 170500,
+      "energy_db": -39.96508074019487
+    },
+    "vocal_phrase_69": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 170000,
+      "end_ms": 173000,
+      "energy_db": -41.9098837293992
+    },
+    "vocal_phrase_70": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 172500,
+      "end_ms": 175500,
+      "energy_db": -41.3969146337224
+    },
+    "vocal_phrase_71": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 175000,
+      "end_ms": 178000,
+      "energy_db": -38.69049918568197
+    },
+    "vocal_phrase_72": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 177500,
+      "end_ms": 180500,
+      "energy_db": -39.452490160010754
+    },
+    "vocal_phrase_73": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 180000,
+      "end_ms": 183000,
+      "energy_db": -39.75640068176758
+    },
+    "vocal_phrase_74": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 182500,
+      "end_ms": 185500,
+      "energy_db": -40.623001912258644
+    },
+    "vocal_phrase_75": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 185000,
+      "end_ms": 188000,
+      "energy_db": -40.85386971285011
+    },
+    "vocal_phrase_76": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 187500,
+      "end_ms": 190500,
+      "energy_db": -39.628476578071655
+    },
+    "vocal_phrase_77": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 190000,
+      "end_ms": 193000,
+      "energy_db": -36.904081637711876
+    },
+    "vocal_phrase_78": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 192500,
+      "end_ms": 195500,
+      "energy_db": -39.70500473513271
+    },
+    "vocal_phrase_79": {
+      "duration_ms": 3000,
+      "type": "vocal_phrase",
+      "start_ms": 195000,
+      "end_ms": 198000,
+      "energy_db": -39.67942035834925
+    }
+  },
+  "drums": {
+    "drum_segment_1": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 0,
+      "end_ms": 2000,
+      "energy_db": -60
+    },
+    "drum_segment_2": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 2000,
+      "end_ms": 4000,
+      "energy_db": -60
+    },
+    "drum_segment_3": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 4000,
+      "end_ms": 6000,
+      "energy_db": -60
+    },
+    "drum_segment_4": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 6000,
+      "end_ms": 8000,
+      "energy_db": -60
+    },
+    "drum_segment_5": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 8000,
+      "end_ms": 10000,
+      "energy_db": -60
+    },
+    "drum_segment_6": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 10000,
+      "end_ms": 12000,
+      "energy_db": -60
+    },
+    "drum_segment_7": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 12000,
+      "end_ms": 14000,
+      "energy_db": -60
+    },
+    "drum_segment_8": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 14000,
+      "end_ms": 16000,
+      "energy_db": -60
+    },
+    "drum_segment_9": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 16000,
+      "end_ms": 18000,
+      "energy_db": -60
+    },
+    "drum_segment_10": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 18000,
+      "end_ms": 20000,
+      "energy_db": -60
+    },
+    "drum_segment_11": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 20000,
+      "end_ms": 22000,
+      "energy_db": -60
+    },
+    "drum_segment_12": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 22000,
+      "end_ms": 24000,
+      "energy_db": -60
+    },
+    "drum_segment_13": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 24000,
+      "end_ms": 26000,
+      "energy_db": -60
+    },
+    "drum_segment_14": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 26000,
+      "end_ms": 28000,
+      "energy_db": -60
+    },
+    "drum_segment_15": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 28000,
+      "end_ms": 30000,
+      "energy_db": -60
+    },
+    "drum_segment_16": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 30000,
+      "end_ms": 32000,
+      "energy_db": -60
+    },
+    "drum_segment_17": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 32000,
+      "end_ms": 34000,
+      "energy_db": -60
+    },
+    "drum_segment_18": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 34000,
+      "end_ms": 36000,
+      "energy_db": -60
+    },
+    "drum_segment_19": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 36000,
+      "end_ms": 38000,
+      "energy_db": -60
+    },
+    "drum_segment_20": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 38000,
+      "end_ms": 40000,
+      "energy_db": -60
+    },
+    "drum_segment_21": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 40000,
+      "end_ms": 42000,
+      "energy_db": -60
+    },
+    "drum_segment_22": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 42000,
+      "end_ms": 44000,
+      "energy_db": -60
+    },
+    "drum_segment_23": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 44000,
+      "end_ms": 46000,
+      "energy_db": -60
+    },
+    "drum_segment_24": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 46000,
+      "end_ms": 48000,
+      "energy_db": -60
+    },
+    "drum_segment_25": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 48000,
+      "end_ms": 50000,
+      "energy_db": -60
+    },
+    "drum_segment_26": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 50000,
+      "end_ms": 52000,
+      "energy_db": -60
+    },
+    "drum_segment_27": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 52000,
+      "end_ms": 54000,
+      "energy_db": -60
+    },
+    "drum_segment_28": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 54000,
+      "end_ms": 56000,
+      "energy_db": -60
+    },
+    "drum_segment_29": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 56000,
+      "end_ms": 58000,
+      "energy_db": -60
+    },
+    "drum_segment_30": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 58000,
+      "end_ms": 60000,
+      "energy_db": -60
+    },
+    "drum_segment_31": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 60000,
+      "end_ms": 62000,
+      "energy_db": -60
+    },
+    "drum_segment_32": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 62000,
+      "end_ms": 64000,
+      "energy_db": -60
+    },
+    "drum_segment_33": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 64000,
+      "end_ms": 66000,
+      "energy_db": -60
+    },
+    "drum_segment_34": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 66000,
+      "end_ms": 68000,
+      "energy_db": -60
+    },
+    "drum_segment_35": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 68000,
+      "end_ms": 70000,
+      "energy_db": -60
+    },
+    "drum_segment_36": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 70000,
+      "end_ms": 72000,
+      "energy_db": -60
+    },
+    "drum_segment_37": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 72000,
+      "end_ms": 74000,
+      "energy_db": -60
+    },
+    "drum_segment_38": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 74000,
+      "end_ms": 76000,
+      "energy_db": -60
+    },
+    "drum_segment_39": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 76000,
+      "end_ms": 78000,
+      "energy_db": -60
+    },
+    "drum_segment_40": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 78000,
+      "end_ms": 80000,
+      "energy_db": -60
+    },
+    "drum_segment_41": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 80000,
+      "end_ms": 82000,
+      "energy_db": -60
+    },
+    "drum_segment_42": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 82000,
+      "end_ms": 84000,
+      "energy_db": -60
+    },
+    "drum_segment_43": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 84000,
+      "end_ms": 86000,
+      "energy_db": -60
+    },
+    "drum_segment_44": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 86000,
+      "end_ms": 88000,
+      "energy_db": -60
+    },
+    "drum_segment_45": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 88000,
+      "end_ms": 90000,
+      "energy_db": -60
+    },
+    "drum_segment_46": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 90000,
+      "end_ms": 92000,
+      "energy_db": -60
+    },
+    "drum_segment_47": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 92000,
+      "end_ms": 94000,
+      "energy_db": -60
+    },
+    "drum_segment_48": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 94000,
+      "end_ms": 96000,
+      "energy_db": -60
+    },
+    "drum_segment_49": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 96000,
+      "end_ms": 98000,
+      "energy_db": -60
+    },
+    "drum_segment_50": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 98000,
+      "end_ms": 100000,
+      "energy_db": -60
+    },
+    "drum_segment_51": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 100000,
+      "end_ms": 102000,
+      "energy_db": -60
+    },
+    "drum_segment_52": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 102000,
+      "end_ms": 104000,
+      "energy_db": -60
+    },
+    "drum_segment_53": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 104000,
+      "end_ms": 106000,
+      "energy_db": -60
+    },
+    "drum_segment_54": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 106000,
+      "end_ms": 108000,
+      "energy_db": -60
+    },
+    "drum_segment_55": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 108000,
+      "end_ms": 110000,
+      "energy_db": -60
+    },
+    "drum_segment_56": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 110000,
+      "end_ms": 112000,
+      "energy_db": -60
+    },
+    "drum_segment_57": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 112000,
+      "end_ms": 114000,
+      "energy_db": -60
+    },
+    "drum_segment_58": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 114000,
+      "end_ms": 116000,
+      "energy_db": -60
+    },
+    "drum_segment_59": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 116000,
+      "end_ms": 118000,
+      "energy_db": -60
+    },
+    "drum_segment_60": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 118000,
+      "end_ms": 120000,
+      "energy_db": -60
+    },
+    "drum_segment_61": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 120000,
+      "end_ms": 122000,
+      "energy_db": -60
+    },
+    "drum_segment_62": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 122000,
+      "end_ms": 124000,
+      "energy_db": -60
+    },
+    "drum_segment_63": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 124000,
+      "end_ms": 126000,
+      "energy_db": -60
+    },
+    "drum_segment_64": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 126000,
+      "end_ms": 128000,
+      "energy_db": -60
+    },
+    "drum_segment_65": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 128000,
+      "end_ms": 130000,
+      "energy_db": -60
+    },
+    "drum_segment_66": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 130000,
+      "end_ms": 132000,
+      "energy_db": -60
+    },
+    "drum_segment_67": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 132000,
+      "end_ms": 134000,
+      "energy_db": -60
+    },
+    "drum_segment_68": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 134000,
+      "end_ms": 136000,
+      "energy_db": -60
+    },
+    "drum_segment_69": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 136000,
+      "end_ms": 138000,
+      "energy_db": -60
+    },
+    "drum_segment_70": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 138000,
+      "end_ms": 140000,
+      "energy_db": -60
+    },
+    "drum_segment_71": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 140000,
+      "end_ms": 142000,
+      "energy_db": -60
+    },
+    "drum_segment_72": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 142000,
+      "end_ms": 144000,
+      "energy_db": -60
+    },
+    "drum_segment_73": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 144000,
+      "end_ms": 146000,
+      "energy_db": -60
+    },
+    "drum_segment_74": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 146000,
+      "end_ms": 148000,
+      "energy_db": -60
+    },
+    "drum_segment_75": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 148000,
+      "end_ms": 150000,
+      "energy_db": -60
+    },
+    "drum_segment_76": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 150000,
+      "end_ms": 152000,
+      "energy_db": -60
+    },
+    "drum_segment_77": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 152000,
+      "end_ms": 154000,
+      "energy_db": -60
+    },
+    "drum_segment_78": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 154000,
+      "end_ms": 156000,
+      "energy_db": -60
+    },
+    "drum_segment_79": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 156000,
+      "end_ms": 158000,
+      "energy_db": -60
+    },
+    "drum_segment_80": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 158000,
+      "end_ms": 160000,
+      "energy_db": -60
+    },
+    "drum_segment_81": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 160000,
+      "end_ms": 162000,
+      "energy_db": -60
+    },
+    "drum_segment_82": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 162000,
+      "end_ms": 164000,
+      "energy_db": -60
+    },
+    "drum_segment_83": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 164000,
+      "end_ms": 166000,
+      "energy_db": -60
+    },
+    "drum_segment_84": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 166000,
+      "end_ms": 168000,
+      "energy_db": -60
+    },
+    "drum_segment_85": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 168000,
+      "end_ms": 170000,
+      "energy_db": -60
+    },
+    "drum_segment_86": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 170000,
+      "end_ms": 172000,
+      "energy_db": -60
+    },
+    "drum_segment_87": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 172000,
+      "end_ms": 174000,
+      "energy_db": -60
+    },
+    "drum_segment_88": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 174000,
+      "end_ms": 176000,
+      "energy_db": -60
+    },
+    "drum_segment_89": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 176000,
+      "end_ms": 178000,
+      "energy_db": -60
+    },
+    "drum_segment_90": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 178000,
+      "end_ms": 180000,
+      "energy_db": -60
+    },
+    "drum_segment_91": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 180000,
+      "end_ms": 182000,
+      "energy_db": -60
+    },
+    "drum_segment_92": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 182000,
+      "end_ms": 184000,
+      "energy_db": -60
+    },
+    "drum_segment_93": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 184000,
+      "end_ms": 186000,
+      "energy_db": -60
+    },
+    "drum_segment_94": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 186000,
+      "end_ms": 188000,
+      "energy_db": -60
+    },
+    "drum_segment_95": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 188000,
+      "end_ms": 190000,
+      "energy_db": -60
+    },
+    "drum_segment_96": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 190000,
+      "end_ms": 192000,
+      "energy_db": -60
+    },
+    "drum_segment_97": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 192000,
+      "end_ms": 194000,
+      "energy_db": -60
+    },
+    "drum_segment_98": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 194000,
+      "end_ms": 196000,
+      "energy_db": -60
+    },
+    "drum_segment_99": {
+      "duration_ms": 2000,
+      "type": "drum_segment",
+      "start_ms": 196000,
+      "end_ms": 198000,
+      "energy_db": -60
+    }
+  },
+  "bass": {
+    "bass_segment_1": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 0,
+      "end_ms": 4000,
+      "energy_db": -60
+    },
+    "bass_segment_2": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 4000,
+      "end_ms": 8000,
+      "energy_db": -60
+    },
+    "bass_segment_3": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 8000,
+      "end_ms": 12000,
+      "energy_db": -60
+    },
+    "bass_segment_4": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 12000,
+      "end_ms": 16000,
+      "energy_db": -60
+    },
+    "bass_segment_5": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 16000,
+      "end_ms": 20000,
+      "energy_db": -60
+    },
+    "bass_segment_6": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 20000,
+      "end_ms": 24000,
+      "energy_db": -60
+    },
+    "bass_segment_7": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 24000,
+      "end_ms": 28000,
+      "energy_db": -60
+    },
+    "bass_segment_8": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 28000,
+      "end_ms": 32000,
+      "energy_db": -60
+    },
+    "bass_segment_9": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 32000,
+      "end_ms": 36000,
+      "energy_db": -60
+    },
+    "bass_segment_10": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 36000,
+      "end_ms": 40000,
+      "energy_db": -60
+    },
+    "bass_segment_11": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 40000,
+      "end_ms": 44000,
+      "energy_db": -60
+    },
+    "bass_segment_12": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 44000,
+      "end_ms": 48000,
+      "energy_db": -60
+    },
+    "bass_segment_13": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 48000,
+      "end_ms": 52000,
+      "energy_db": -60
+    },
+    "bass_segment_14": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 52000,
+      "end_ms": 56000,
+      "energy_db": -60
+    },
+    "bass_segment_15": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 56000,
+      "end_ms": 60000,
+      "energy_db": -60
+    },
+    "bass_segment_16": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 60000,
+      "end_ms": 64000,
+      "energy_db": -60
+    },
+    "bass_segment_17": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 64000,
+      "end_ms": 68000,
+      "energy_db": -60
+    },
+    "bass_segment_18": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 68000,
+      "end_ms": 72000,
+      "energy_db": -60
+    },
+    "bass_segment_19": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 72000,
+      "end_ms": 76000,
+      "energy_db": -60
+    },
+    "bass_segment_20": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 76000,
+      "end_ms": 80000,
+      "energy_db": -60
+    },
+    "bass_segment_21": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 80000,
+      "end_ms": 84000,
+      "energy_db": -60
+    },
+    "bass_segment_22": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 84000,
+      "end_ms": 88000,
+      "energy_db": -60
+    },
+    "bass_segment_23": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 88000,
+      "end_ms": 92000,
+      "energy_db": -60
+    },
+    "bass_segment_24": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 92000,
+      "end_ms": 96000,
+      "energy_db": -60
+    },
+    "bass_segment_25": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 96000,
+      "end_ms": 100000,
+      "energy_db": -60
+    },
+    "bass_segment_26": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 100000,
+      "end_ms": 104000,
+      "energy_db": -60
+    },
+    "bass_segment_27": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 104000,
+      "end_ms": 108000,
+      "energy_db": -60
+    },
+    "bass_segment_28": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 108000,
+      "end_ms": 112000,
+      "energy_db": -60
+    },
+    "bass_segment_29": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 112000,
+      "end_ms": 116000,
+      "energy_db": -60
+    },
+    "bass_segment_30": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 116000,
+      "end_ms": 120000,
+      "energy_db": -60
+    },
+    "bass_segment_31": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 120000,
+      "end_ms": 124000,
+      "energy_db": -60
+    },
+    "bass_segment_32": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 124000,
+      "end_ms": 128000,
+      "energy_db": -60
+    },
+    "bass_segment_33": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 128000,
+      "end_ms": 132000,
+      "energy_db": -60
+    },
+    "bass_segment_34": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 132000,
+      "end_ms": 136000,
+      "energy_db": -60
+    },
+    "bass_segment_35": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 136000,
+      "end_ms": 140000,
+      "energy_db": -60
+    },
+    "bass_segment_36": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 140000,
+      "end_ms": 144000,
+      "energy_db": -60
+    },
+    "bass_segment_37": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 144000,
+      "end_ms": 148000,
+      "energy_db": -60
+    },
+    "bass_segment_38": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 148000,
+      "end_ms": 152000,
+      "energy_db": -60
+    },
+    "bass_segment_39": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 152000,
+      "end_ms": 156000,
+      "energy_db": -60
+    },
+    "bass_segment_40": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 156000,
+      "end_ms": 160000,
+      "energy_db": -60
+    },
+    "bass_segment_41": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 160000,
+      "end_ms": 164000,
+      "energy_db": -60
+    },
+    "bass_segment_42": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 164000,
+      "end_ms": 168000,
+      "energy_db": -60
+    },
+    "bass_segment_43": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 168000,
+      "end_ms": 172000,
+      "energy_db": -60
+    },
+    "bass_segment_44": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 172000,
+      "end_ms": 176000,
+      "energy_db": -60
+    },
+    "bass_segment_45": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 176000,
+      "end_ms": 180000,
+      "energy_db": -60
+    },
+    "bass_segment_46": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 180000,
+      "end_ms": 184000,
+      "energy_db": -60
+    },
+    "bass_segment_47": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 184000,
+      "end_ms": 188000,
+      "energy_db": -60
+    },
+    "bass_segment_48": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 188000,
+      "end_ms": 192000,
+      "energy_db": -60
+    },
+    "bass_segment_49": {
+      "duration_ms": 4000,
+      "type": "bass_segment",
+      "start_ms": 192000,
+      "end_ms": 196000,
+      "energy_db": -60
+    },
+    "bass_segment_50": {
+      "duration_ms": 2252,
+      "type": "bass_segment",
+      "start_ms": 196000,
+      "end_ms": 198252,
+      "energy_db": -60
+    }
+  },
+  "other": {
+    "harmonic_segment_1": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 0,
+      "end_ms": 3000,
+      "energy_db": -60
+    },
+    "harmonic_segment_2": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 3000,
+      "end_ms": 6000,
+      "energy_db": -60
+    },
+    "harmonic_segment_3": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 6000,
+      "end_ms": 9000,
+      "energy_db": -60
+    },
+    "harmonic_segment_4": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 9000,
+      "end_ms": 12000,
+      "energy_db": -60
+    },
+    "harmonic_segment_5": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 12000,
+      "end_ms": 15000,
+      "energy_db": -60
+    },
+    "harmonic_segment_6": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 15000,
+      "end_ms": 18000,
+      "energy_db": -60
+    },
+    "harmonic_segment_7": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 18000,
+      "end_ms": 21000,
+      "energy_db": -60
+    },
+    "harmonic_segment_8": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 21000,
+      "end_ms": 24000,
+      "energy_db": -60
+    },
+    "harmonic_segment_9": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 24000,
+      "end_ms": 27000,
+      "energy_db": -60
+    },
+    "harmonic_segment_10": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 27000,
+      "end_ms": 30000,
+      "energy_db": -60
+    },
+    "harmonic_segment_11": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 30000,
+      "end_ms": 33000,
+      "energy_db": -60
+    },
+    "harmonic_segment_12": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 33000,
+      "end_ms": 36000,
+      "energy_db": -60
+    },
+    "harmonic_segment_13": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 36000,
+      "end_ms": 39000,
+      "energy_db": -60
+    },
+    "harmonic_segment_14": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 39000,
+      "end_ms": 42000,
+      "energy_db": -60
+    },
+    "harmonic_segment_15": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 42000,
+      "end_ms": 45000,
+      "energy_db": -60
+    },
+    "harmonic_segment_16": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 45000,
+      "end_ms": 48000,
+      "energy_db": -60
+    },
+    "harmonic_segment_17": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 48000,
+      "end_ms": 51000,
+      "energy_db": -60
+    },
+    "harmonic_segment_18": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 51000,
+      "end_ms": 54000,
+      "energy_db": -60
+    },
+    "harmonic_segment_19": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 54000,
+      "end_ms": 57000,
+      "energy_db": -60
+    },
+    "harmonic_segment_20": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 57000,
+      "end_ms": 60000,
+      "energy_db": -60
+    },
+    "harmonic_segment_21": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 60000,
+      "end_ms": 63000,
+      "energy_db": -60
+    },
+    "harmonic_segment_22": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 63000,
+      "end_ms": 66000,
+      "energy_db": -60
+    },
+    "harmonic_segment_23": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 66000,
+      "end_ms": 69000,
+      "energy_db": -60
+    },
+    "harmonic_segment_24": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 69000,
+      "end_ms": 72000,
+      "energy_db": -60
+    },
+    "harmonic_segment_25": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 72000,
+      "end_ms": 75000,
+      "energy_db": -60
+    },
+    "harmonic_segment_26": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 75000,
+      "end_ms": 78000,
+      "energy_db": -60
+    },
+    "harmonic_segment_27": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 78000,
+      "end_ms": 81000,
+      "energy_db": -60
+    },
+    "harmonic_segment_28": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 81000,
+      "end_ms": 84000,
+      "energy_db": -60
+    },
+    "harmonic_segment_29": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 84000,
+      "end_ms": 87000,
+      "energy_db": -60
+    },
+    "harmonic_segment_30": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 87000,
+      "end_ms": 90000,
+      "energy_db": -60
+    },
+    "harmonic_segment_31": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 90000,
+      "end_ms": 93000,
+      "energy_db": -60
+    },
+    "harmonic_segment_32": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 93000,
+      "end_ms": 96000,
+      "energy_db": -60
+    },
+    "harmonic_segment_33": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 96000,
+      "end_ms": 99000,
+      "energy_db": -60
+    },
+    "harmonic_segment_34": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 99000,
+      "end_ms": 102000,
+      "energy_db": -60
+    },
+    "harmonic_segment_35": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 102000,
+      "end_ms": 105000,
+      "energy_db": -60
+    },
+    "harmonic_segment_36": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 105000,
+      "end_ms": 108000,
+      "energy_db": -60
+    },
+    "harmonic_segment_37": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 108000,
+      "end_ms": 111000,
+      "energy_db": -60
+    },
+    "harmonic_segment_38": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 111000,
+      "end_ms": 114000,
+      "energy_db": -60
+    },
+    "harmonic_segment_39": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 114000,
+      "end_ms": 117000,
+      "energy_db": -60
+    },
+    "harmonic_segment_40": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 117000,
+      "end_ms": 120000,
+      "energy_db": -60
+    },
+    "harmonic_segment_41": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 120000,
+      "end_ms": 123000,
+      "energy_db": -60
+    },
+    "harmonic_segment_42": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 123000,
+      "end_ms": 126000,
+      "energy_db": -60
+    },
+    "harmonic_segment_43": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 126000,
+      "end_ms": 129000,
+      "energy_db": -60
+    },
+    "harmonic_segment_44": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 129000,
+      "end_ms": 132000,
+      "energy_db": -60
+    },
+    "harmonic_segment_45": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 132000,
+      "end_ms": 135000,
+      "energy_db": -60
+    },
+    "harmonic_segment_46": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 135000,
+      "end_ms": 138000,
+      "energy_db": -60
+    },
+    "harmonic_segment_47": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 138000,
+      "end_ms": 141000,
+      "energy_db": -60
+    },
+    "harmonic_segment_48": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 141000,
+      "end_ms": 144000,
+      "energy_db": -60
+    },
+    "harmonic_segment_49": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 144000,
+      "end_ms": 147000,
+      "energy_db": -60
+    },
+    "harmonic_segment_50": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 147000,
+      "end_ms": 150000,
+      "energy_db": -60
+    },
+    "harmonic_segment_51": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 150000,
+      "end_ms": 153000,
+      "energy_db": -60
+    },
+    "harmonic_segment_52": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 153000,
+      "end_ms": 156000,
+      "energy_db": -60
+    },
+    "harmonic_segment_53": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 156000,
+      "end_ms": 159000,
+      "energy_db": -60
+    },
+    "harmonic_segment_54": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 159000,
+      "end_ms": 162000,
+      "energy_db": -60
+    },
+    "harmonic_segment_55": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 162000,
+      "end_ms": 165000,
+      "energy_db": -60
+    },
+    "harmonic_segment_56": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 165000,
+      "end_ms": 168000,
+      "energy_db": -60
+    },
+    "harmonic_segment_57": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 168000,
+      "end_ms": 171000,
+      "energy_db": -60
+    },
+    "harmonic_segment_58": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 171000,
+      "end_ms": 174000,
+      "energy_db": -60
+    },
+    "harmonic_segment_59": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 174000,
+      "end_ms": 177000,
+      "energy_db": -60
+    },
+    "harmonic_segment_60": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 177000,
+      "end_ms": 180000,
+      "energy_db": -60
+    },
+    "harmonic_segment_61": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 180000,
+      "end_ms": 183000,
+      "energy_db": -60
+    },
+    "harmonic_segment_62": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 183000,
+      "end_ms": 186000,
+      "energy_db": -60
+    },
+    "harmonic_segment_63": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 186000,
+      "end_ms": 189000,
+      "energy_db": -60
+    },
+    "harmonic_segment_64": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 189000,
+      "end_ms": 192000,
+      "energy_db": -60
+    },
+    "harmonic_segment_65": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 192000,
+      "end_ms": 195000,
+      "energy_db": -60
+    },
+    "harmonic_segment_66": {
+      "duration_ms": 3000,
+      "type": "harmonic_segment",
+      "start_ms": 195000,
+      "end_ms": 198000,
+      "energy_db": -60
+    }
+  }
+}

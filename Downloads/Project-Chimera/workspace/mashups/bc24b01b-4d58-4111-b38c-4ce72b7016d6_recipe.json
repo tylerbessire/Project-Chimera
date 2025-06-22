@@ -1,0 +1,115 @@
+{
+  "mashup_recipe": {
+    "title": "Goodbye Mr. Brightside",
+    "artists": "James Blunt x The Killers",
+    "target_key": "C# major",
+    "structure": {
+      "intro": {
+        "duration": "0:00-0:30",
+        "elements": [
+          {
+            "source": "Goodbye My Lover",
+            "component": "stripped piano",
+            "treatment": "transposed +1 semitone to C#",
+            "tempo": "120 BPM"
+          },
+          {
+            "source": "Mr. Brightside",
+            "component": "melodic motifs",
+            "treatment": "layered softly, time-stretched to 120 BPM",
+            "effect": "emotional build-up"
+          }
+        ]
+      },
+      "verse_1": {
+        "duration": "0:30-1:15",
+        "framework": "Goodbye My Lover chord progression in C#",
+        "elements": [
+          {
+            "source": "Goodbye My Lover",
+            "component": "vocal melody",
+            "treatment": "sustained notes preserved, key matched"
+          },
+          {
+            "source": "Mr. Brightside",
+            "component": "eighth-note pulse",
+            "treatment": "gradually introduced underneath",
+            "automation": "subtle intensity increase"
+          }
+        ]
+      },
+      "transition_bridge": {
+        "duration": "1:15-1:45",
+        "technique": "tempo modulation",
+        "tempo_shift": "120 BPM \u2192 161.5 BPM (automated gradual increase)",
+        "elements": [
+          {
+            "source": "Goodbye My Lover",
+            "component": "chord progression framework"
+          },
+          {
+            "source": "Mr. Brightside",
+            "component": "iconic guitar riff",
+            "treatment": "swapped into Blunt's chord structure"
+          }
+        ]
+      },
+      "chorus_explosive": {
+        "duration": "1:45-2:30",
+        "tempo": "161.5 BPM",
+        "key": "C# major",
+        "vocal_treatment": "call-and-response",
+        "elements": [
+          {
+            "source": "Mr. Brightside",
+            "component": "full energetic arrangement",
+            "treatment": "maintain frantic indie rock energy"
+          },
+          {
+            "source": "Goodbye My Lover",
+            "component": "vocal phrases",
+            "treatment": "sliced delivery in spaces between Flowers' staccato",
+            "technique": "harmonic layering on key emotional phrases"
+          }
+        ]
+      },
+      "breakdown_return": {
+        "duration": "2:30-3:00",
+        "tempo_shift": "161.5 BPM \u2192 120 BPM (reverse modulation)",
+        "elements": [
+          {
+            "source": "Goodbye My Lover",
+            "component": "introspective piano return",
+            "effect": "pulls at heartstrings"
+          },
+          {
+            "source": "Mr. Brightside",
+            "component": "rhythmic elements",
+            "treatment": "filtered and reduced, maintaining danceable pulse"
+          }
+        ]
+      },
+      "finale": {
+        "duration": "3:00-3:45",
+        "concept": "vulnerability meets energy climax",
+        "tempo": "dual-tempo layering (120 + 161.5 BPM elements)",
+        "vocal_approach": "harmonic layering of both vocalists",
+        "treatment": "emotionally resonant yet totally danceable"
+      }
+    },
+    "technical_specifications": {
+      "pitch_shifting": "Modern algorithms to preserve urgency at slower tempos",
+      "time_stretching": "Creative application to Mr. Brightside elements",
+      "automation": "Smooth tempo modulation curves",
+      "sampling": "Creative hooks from both tracks",
+      "key_matching": "Goodbye My Lover transposed C \u2192 C#",
+      "harmonic_foundation": "Simple chord progressions allow creative layering"
+    },
+    "creative_vision": {
+      "emotional_arc": "Vulnerability \u2192 Energy \u2192 Synthesis",
+      "style_fusion": "Soulful introspection meets infectious indie energy",
+      "listener_experience": "Swept up in energy without realizing the transition",
+      "core_concept": "Contrasting energies unified into emotionally resonant dance track"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "mashup_recipe": {
+    "title": "Goodbye Mr. Brightside",
+    "artists": "James Blunt x The Killers",
+    "concept": "Sonic narrative blending emotional vulnerability with explosive energy",
+    "technical_foundation": {
+      "key_handling": {
+        "goodbye_my_lover": "C major (original)",
+        "mr_brightside": "C major (pitched down 1 semitone from C#)",
+        "rationale": "Deeper, more haunting quality on Killers vocals to blend with Blunt's vulnerability"
+      },
+      "tempo_strategy": {
+        "base_tempo": "120 BPM (Goodbye My Lover natural pace)",
+        "half_time_section": "80 BPM (Mr. Brightside elements locked to same grid)",
+        "explosive_moments": "160+ BPM (full-speed Brightside energy)",
+        "approach": "Use tempo contrast as feature rather than finding static middle ground"
+      }
+    },
+    "arrangement_structure": {
+      "opening": {
+        "elements": [
+          "Tender guitar/piano from Goodbye My Lover",
+          "Intimate, reflective mood"
+        ],
+        "duration": "32 bars",
+        "feel": "Chilled-out, emotional foundation"
+      },
+      "build_section": {
+        "technique": "Gradual introduction of Mr. Brightside elements",
+        "elements": [
+          "Chopped and looped guitar riffs",
+          "Subtle synth layers",
+          "Light percussion"
+        ],
+        "tempo": "Half-time (80 BPM) to maintain lock with base grid"
+      },
+      "explosive_moments": {
+        "trigger": "Full-speed drop to 160+ BPM",
+        "elements": [
+          "Complete Mr. Brightside energy",
+          "Layered drums",
+          "Full guitar attack"
+        ],
+        "contrast": "Maximum energy after intimate sections"
+      },
+      "breakdown_transitions": {
+        "concept": "Sonic narrative - explosive to intimate and back",
+        "technique": "Creative transition effects blur boundaries between songs"
+      }
+    },
+    "transition_techniques": {
+      "reverse_reverb_swells": {
+        "source": "Mr. Brightside iconic guitar riff",
+        "processing": "Reversed and used as riser",
+        "purpose": "Lead into emotional breakdowns"
+      },
+      "filtered_buildups": {
+        "application": "Smooth gear changes between sections",
+        "effect": "Maintains momentum while shifting energy"
+      }
+    },
+    "vocal_treatment": {
+      "layering_approach": "Ethereal blend creating conversational effect",
+      "technique": "Subtle pitch-shifted doubles of both vocals",
+      "goal": "Enhance both emotional weight and dancefloor energy",
+      "narrative": "Vocals sound like they're having a conversation"
+    },
+    "creative_elements": {
+      "double_time_verses": "Dynamic switching between verse and chorus feels",
+      "loop_chopping": "Mr. Brightside elements chopped and looped for momentum",
+      "effects_layering": "Blur boundaries between contrasting moods",
+      "modulation_bridges": "Subtle shifts to handle key differences smoothly"
+    },
+    "emotional_arc": {
+      "journey": "Intimate \u2192 Building Energy \u2192 Explosive \u2192 Breakdown \u2192 Explosive Return",
+      "contrasts": [
+        "Vulnerability vs Energy",
+        "Reflection vs Danceability",
+        "Tender vs Explosive",
+        "120 BPM calm vs 160+ BPM intensity"
+      ],
+      "goal": "Surprise and hook listeners through emotional narrative"
+    },
+    "mixing_philosophy": {
+      "seamless_integration": "Make contrasting elements feel natural together",
+      "preserve_identity": "Maintain recognizable elements from both songs",
+      "enhance_contrast": "Use differences as features, not obstacles",
+      "fresh_perspective": "Create something that surprises while honoring originals"
+    }
+  }
+}

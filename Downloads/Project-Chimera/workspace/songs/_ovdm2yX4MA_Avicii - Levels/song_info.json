@@ -1,0 +1,12 @@
+{
+  "song_id": "_ovdm2yX4MA_Avicii - Levels",
+  "title": "_ovdm2yX4MA_Avicii - Levels",
+  "folder_path": "workspace/songs/_ovdm2yX4MA_Avicii - Levels",
+  "files": {
+    "audio": "audio.wav",
+    "stems": "stems/",
+    "metadata": "metadata.json"
+  },
+  "ready_for_mashup": true,
+  "organization_status": "cleaned"
+}

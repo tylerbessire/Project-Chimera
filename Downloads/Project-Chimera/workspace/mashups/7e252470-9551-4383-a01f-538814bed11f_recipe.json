@@ -1,0 +1,108 @@
+{
+  "mashup_recipe": {
+    "title": "Goodbye Mr. Brightside",
+    "artists": "James Blunt x The Killers",
+    "target_tempo": 140,
+    "target_key": "C major",
+    "duration": "4:30",
+    "source_tracks": {
+      "track_a": {
+        "title": "Goodbye My Lover",
+        "artist": "James Blunt",
+        "original_tempo": 120,
+        "original_key": "C major",
+        "processing": {
+          "tempo_adjustment": "+16.7%",
+          "method": "pitch_independent_time_stretch",
+          "preserve_formants": true
+        }
+      },
+      "track_b": {
+        "title": "Mr. Brightside",
+        "artist": "The Killers",
+        "original_tempo": 161.5,
+        "original_key": "C# major",
+        "processing": {
+          "tempo_adjustment": "-13.3%",
+          "key_adjustment": "-1 semitone to C major",
+          "method": "high_quality_pitch_shift",
+          "preserve_energy": true
+        }
+      }
+    },
+    "arrangement": {
+      "intro": {
+        "duration": "0:00-0:45",
+        "elements": [
+          "Goodbye My Lover piano - full prominence",
+          "Goodbye My Lover vocals - intimate, close-mic feel",
+          "Subtle high-pass filtered Mr. Brightside bass - barely audible"
+        ]
+      },
+      "verse_1": {
+        "duration": "0:45-1:30",
+        "elements": [
+          "Goodbye My Lover foundation continues",
+          "Mr. Brightside bass line - low-pass filtered, sidechained to ballad rhythm",
+          "Creating underlying urgency and tension buildup"
+        ]
+      },
+      "transition_bridge": {
+        "duration": "1:30-2:15",
+        "elements": [
+          "Mr. Brightside guitar riff enters as melodic answer",
+          "Call-and-response with Blunt's vocal phrases",
+          "Gradual filter sweeps opening up Mr. Brightside elements",
+          "Key tension: brief moments in C# before resolving to C"
+        ]
+      },
+      "cathartic_drop": {
+        "duration": "2:15-3:00",
+        "elements": [
+          "Full Mr. Brightside drum pattern enters",
+          "Both vocal melodies layer - Blunt lead, Killers harmonizing",
+          "Piano and guitar interweaving",
+          "Maximum emotional and sonic density"
+        ]
+      },
+      "resolution": {
+        "duration": "3:00-4:30",
+        "elements": [
+          "Seamless mash of both melodies",
+          "Lyrical motifs sampled and looped between songs",
+          "Danceable groove with emotional resonance",
+          "Gradual outro returning to intimate piano"
+        ]
+      }
+    },
+    "technical_specifications": {
+      "vocal_treatment": {
+        "primary_vocal": "James Blunt - maintain intimate character",
+        "secondary_vocal": "The Killers - filtered, used as texture and harmony",
+        "hybrid_moments": "Melodic phrases traded between both vocalists"
+      },
+      "key_strategy": {
+        "main_key": "C major",
+        "tension_moments": "Brief C# passages for unease before resolution",
+        "harmonic_movement": "Use semitone difference as creative tension tool"
+      },
+      "rhythm_treatment": {
+        "sidechain_compression": "Mr. Brightside bass pumping with ballad rhythm",
+        "groove_evolution": "Ballad 4/4 gradually incorporating indie rock drive",
+        "percussive_layering": "Subtle to full drum kit transition"
+      },
+      "mixing_approach": {
+        "emotional_arc": "Intimate vulnerability \u2192 building tension \u2192 cathartic energy",
+        "frequency_separation": "Piano low-mids, guitar high-mids, vocals clear presence",
+        "dynamics": "Gradual build from -18dB intimate to -8dB full energy",
+        "stereo_imaging": "Piano center-left, guitar center-right, vocals center"
+      }
+    },
+    "creative_elements": {
+      "melodic_sampling": "Loop key progressions between songs",
+      "lyrical_interweaving": "Sample and layer complementary emotional phrases",
+      "textural_layers": "Filtered elements creating organic transitions",
+      "narrative_arc": "Nostalgic intimacy evolving into invigorating celebration"
+    }
+  }
+}

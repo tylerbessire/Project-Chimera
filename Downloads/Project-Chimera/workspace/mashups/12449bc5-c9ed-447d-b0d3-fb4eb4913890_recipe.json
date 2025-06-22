@@ -1,0 +1,143 @@
+{
+  "mashup_recipe": {
+    "title": "Goodbye Mr. Brightside",
+    "source_tracks": {
+      "track_a": {
+        "artist": "James Blunt",
+        "song": "Goodbye My Lover",
+        "original_bpm": 120,
+        "original_key": "C"
+      },
+      "track_b": {
+        "artist": "The Killers",
+        "song": "Mr. Brightside",
+        "original_bpm": 161.5,
+        "original_key": "C#"
+      }
+    },
+    "structure": {
+      "act_1_intro": {
+        "duration": "0:00-1:30",
+        "description": "Pure vulnerability - stripped Blunt foundation",
+        "elements": {
+          "blunt_vocal": {
+            "treatment": "unprocessed, intimate",
+            "tempo": "80 BPM (pitched down from 120)",
+            "key": "C",
+            "mix_level": "prominent"
+          },
+          "blunt_piano": {
+            "treatment": "elastic audio stretch",
+            "tempo": "80 BPM",
+            "key": "C",
+            "mix_level": "supporting"
+          }
+        }
+      },
+      "act_2_infection": {
+        "duration": "1:30-3:45",
+        "description": "Gradual infiltration of Killers elements with tempo stepping stones",
+        "tempo_progression": [
+          80,
+          100,
+          120,
+          140
+        ],
+        "elements": {
+          "killers_guitar_riff": {
+            "treatment": "low-pass filtered, gradually brightening",
+            "entry_point": "2:00",
+            "tempo": "synced to stepping stone progression",
+            "key": "starts in C, gradual pitch glide to C#",
+            "mix_level": "low to medium"
+          },
+          "blunt_vocal": {
+            "treatment": "maintained as emotional anchor",
+            "tempo": "elastic stretched to match progression",
+            "key": "C with gradual modulation",
+            "mix_level": "medium to low"
+          },
+          "killers_drums": {
+            "treatment": "filtered entrance at 2:30",
+            "tempo": "synced to stepping stones",
+            "mix_level": "building"
+          }
+        }
+      },
+      "act_3_explosion": {
+        "duration": "3:45-5:00",
+        "description": "Full energetic release with vocal interplay",
+        "elements": {
+          "killers_full_arrangement": {
+            "treatment": "full brightness, driving energy",
+            "tempo": "161.5 BPM",
+            "key": "C#",
+            "mix_level": "dominant"
+          },
+          "vocal_treatment": {
+            "approach": "call_and_response",
+            "blunt_vocal": "filtered, reverb-heavy for contrast",
+            "killers_vocal": "prominent during chorus sections",
+            "interaction": "overlapping during bridge"
+          }
+        }
+      },
+      "false_ending": {
+        "duration": "5:00-5:30",
+        "description": "Emotional return to vulnerability",
+        "elements": {
+          "blunt_core": {
+            "treatment": "stripped back to piano and vocal",
+            "tempo": "80 BPM",
+            "key": "C",
+            "mix_level": "isolated"
+          }
+        }
+      },
+      "final_explosive_outro": {
+        "duration": "5:30-6:15",
+        "description": "Ultimate cathartic release",
+        "elements": {
+          "full_mashup": {
+            "treatment": "all elements combined",
+            "tempo": "161.5 BPM",
+            "key": "C# with harmonic layering",
+            "vocal_approach": "both vocals layered for maximum impact"
+          }
+        }
+      }
+    },
+    "key_technical_processes": {
+      "tempo_mapping": {
+        "tool": "elastic_audio",
+        "stepping_stones": [
+          80,
+          100,
+          120,
+          140,
+          161.5
+        ],
+        "transition_method": "gradual_acceleration"
+      },
+      "key_modulation": {
+        "technique": "pitch_glide_during_build",
+        "start_key": "C",
+        "end_key": "C#",
+        "transition_timing": "during act_2_infection"
+      },
+      "filter_automation": {
+        "killers_elements": "low_pass_to_full_spectrum",
+        "timing": "synchronized_with_tempo_builds"
+      }
+    },
+    "emotional_arc": {
+      "vulnerability_to_explosion": "primary_journey",
+      "contrast_points": [
+        "intimate_vs_driving",
+        "stripped_vs_full_arrangement",
+        "personal_vs_anthemic"
+      ],
+      "surprise_element": "false_ending_emotional_return"
+    }
+  }
+}

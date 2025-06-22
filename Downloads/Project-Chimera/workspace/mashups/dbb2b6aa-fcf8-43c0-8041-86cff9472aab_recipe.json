@@ -1,0 +1,65 @@
+{
+  "mashup_recipe": {
+    "project_title": "Emotional Collision",
+    "source_tracks": {
+      "track_a": {
+        "reference": "Emotional ballad (C major, 120 BPM)",
+        "role": "melodic_foundation_and_emotional_core"
+      },
+      "track_b": {
+        "reference": "Indie rock anthem (C# major, 161.5 BPM)",
+        "role": "energy_and_rhythmic_drive"
+      }
+    },
+    "technical_specifications": {
+      "target_tempo": "140 BPM",
+      "target_key": "C# major",
+      "processing_method": "time_stretching_algorithms",
+      "quality_priority": "maintain_character_over_perfection"
+    },
+    "arrangement_structure": {
+      "intro": {
+        "elements": [
+          "acoustic_motifs",
+          "subtle_electronic_percussion"
+        ],
+        "build": "gradual_layering",
+        "duration": "16_bars"
+      },
+      "transition": {
+        "technique": "reverse_reverb_sweep",
+        "purpose": "explosive_energy_shift",
+        "duration": "4_bars"
+      },
+      "main_section": {
+        "layers": [
+          "distorted_guitars",
+          "punchy_drums",
+          "analog_synth_stabs",
+          "vocal_harmonies"
+        ],
+        "energy_level": "maximum_drive"
+      }
+    },
+    "vocal_treatment": {
+      "technique": "call_and_response_layering",
+      "spatial_processing": {
+        "panning": "strategic_left_right_placement",
+        "eq": "frequency_separation_for_clarity"
+      },
+      "goal": "wall_of_sound_with_distinct_elements"
+    },
+    "production_approach": {
+      "tempo_sync": "compromise_at_140_bpm",
+      "key_treatment": "transpose_ballad_up_semitone",
+      "energy_balance": "emotional_pull_with_amplified_momentum",
+      "arrangement_philosophy": "contrast_creates_compelling_tension"
+    },
+    "creative_vision": {
+      "primary_goal": "seamless_yet_energetic_fusion",
+      "emotional_target": "heartfelt_but_driving",
+      "technical_challenge": "maintaining_authenticity_while_transforming",
+      "innovation": "melodic_hooks_in_lively_arrangement"
+    }
+  }
+}
